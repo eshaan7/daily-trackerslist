@@ -8,8 +8,8 @@ Updated list of public BitTorrent trackers.
 ### Lists
 *These lists are automatically updated every day. Last update 12/01/2021 (_dd/mm/yyyy_):*
 
-* trackers_best (43 trackers) => [link](https://raw.githubusercontent.com/eshaan7/daily-trackerslist/main/trackers_best.txt)
-* trackers_stable (100 trackers) => [link](https://raw.githubusercontent.com/eshaan7/daily-trackerslist/main/trackers_stable.txt)
+* trackers_best (44 trackers) => [link](https://raw.githubusercontent.com/eshaan7/daily-trackerslist/master/trackers_best.txt)
+* trackers_stable (99 trackers) => [link](https://raw.githubusercontent.com/eshaan7/daily-trackerslist/master/trackers_stable.txt)
 
 ## Note
 
