@@ -44,8 +44,6 @@ udp://storage.groupees.com:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
-udp://mts.tvbit.co:6969/announce
-
 udp://tracker.v6speed.org:6969/announce
 
 udp://sd-161673.dedibox.fr:6969/announce
