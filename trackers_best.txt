@@ -82,3 +82,5 @@ http://tracker.loadbt.com:6969/announce
 
 http://cloud.nyap2p.com:8080/announce
 
+http://ipv4announce.sktorrent.eu:6969/announce
+
