@@ -34,8 +34,6 @@ udp://movies.zsw.ca:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
-udp://47.ip-51-68-199.eu:6969/announce
-
 udp://cdn-1.gamecoast.org:6969/announce
 
 udp://edu.uifr.ru:6969/announce
@@ -69,4 +67,6 @@ udp://www.torrent.eu.org:451/announce
 https://tracker.yui.cat:443/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+http://home.yxgz.club:6969/announce
 
