@@ -34,13 +34,13 @@ udp://movies.zsw.ca:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
-udp://cdn-1.gamecoast.org:6969/announce
-
 udp://edu.uifr.ru:6969/announce
 
 http://rt.tace.ru:80/announce
 
 udp://code2chicken.nl:6969/announce
+
+udp://t2.leech.ie:1337/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -64,9 +64,9 @@ udp://tracker.openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://tracker.yui.cat:443/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
-http://home.yxgz.club:6969/announce
+http://openbittorrent.com:80/announce
+
+udp://tracker.edkj.club:6969/announce
 
