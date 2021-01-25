@@ -26,11 +26,11 @@ udp://ln.mtahost.co:6969/announce
 
 udp://vibe.community:6969/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://nagios.tks.sumy.ua:80/announce
 
@@ -47,8 +47,6 @@ udp://tracker.0x.tf:6969/announce
 udp://tracker.altrosky.nl:6969/announce
 
 udp://torrentclub.online:54123/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://6rt.tace.ru:80/announce
 
@@ -69,4 +67,8 @@ udp://tracker.zerobytes.xyz:1337/announce
 http://openbittorrent.com:80/announce
 
 udp://tracker.edkj.club:6969/announce
+
+udp://ahimsa.yui.cat:6969/announce
+
+https://tracker.morian.icu:443/announce
 
