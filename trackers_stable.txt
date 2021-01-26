@@ -66,11 +66,7 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 http://openbittorrent.com:80/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://ahimsa.yui.cat:6969/announce
-
-https://tracker.morian.icu:443/announce
 
 udp://opentor.org:2710/announce
 
@@ -100,7 +96,7 @@ https://tracker.lilithraws.cf:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://johnrosen1.com:6969/announce
+udp://open.stealth.si:80/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -112,9 +108,11 @@ udp://t1.leech.ie:1337/announce
 
 https://tracker.foreverpirates.co:443/announce
 
+udp://johnrosen1.com:6969/announce
+
 http://tracker.vraphim.com:6969/announce
 
-udp://open.stealth.si:80/announce
+udp://peru.subventas.com:53/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
@@ -122,13 +120,9 @@ udp://mts.tvbit.co:6969/announce
 
 udp://3rt.tace.ru:60889/announce
 
-udp://peru.subventas.com:53/announce
-
 udp://tracker.dler.org:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-udp://tracker.army:6969/announce
 
 http://tracker.loadbt.com:6969/announce
 
@@ -136,27 +130,29 @@ udp://line-net.ru:6969/announce
 
 udp://t3.leech.ie:1337/announce
 
+http://home.yxgz.club:6969/announce
+
 udp://bt1.archive.org:6969/announce
+
+udp://tracker.army:6969/announce
 
 udp://engplus.ru:6969/announce
 
 https://tracker.coalition.space:443/announce
 
-http://home.yxgz.club:6969/announce
-
 http://cloud.nyap2p.com:8080/announce
+
+udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
-udp://valakas.rollo.dnsabr.com:2710/announce
-
 http://tracker-cdn.moeking.me:2095/announce
 
-http://bt.okmp3.ru:2710/announce
-
 udp://bt2.archive.org:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -168,27 +164,27 @@ udp://cdn-2.gamecoast.org:6969/announce
 
 udp://bt2.3kb.xyz:6969/announce
 
-http://00.mercax.com:443/announce
-
 https://1337.abcvg.info:443/announce
+
+http://00.mercax.com:443/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
-udp://bioquantum.co.za:6969/announce
+udp://tracker.edkj.club:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.ds.is:6969/announce
 
-http://tracker.bt4g.com:2095/announce
-
-udp://cutiegirl.ru:6969/announce
+udp://bioquantum.co.za:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
-udp://teamspeak.value-wolf.org:6969/announce
+udp://cutiegirl.ru:6969/announce
+
+udp://public-tracker.zooki.xyz:6969/announce
 
 http://bt.100.pet:2710/announce
 

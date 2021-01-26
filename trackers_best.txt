@@ -66,9 +66,5 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 http://openbittorrent.com:80/announce
 
-udp://tracker.edkj.club:6969/announce
-
 udp://ahimsa.yui.cat:6969/announce
-
-https://tracker.morian.icu:443/announce
 
