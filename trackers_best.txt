@@ -30,8 +30,6 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://nagios.tks.sumy.ua:80/announce
 
 udp://edu.uifr.ru:6969/announce
