@@ -1,5 +1,7 @@
 udp://tracker.torrent.eu.org:451/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -21,8 +23,6 @@ udp://blokas.io:6969/announce
 udp://discord.heihachi.pw:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://ln.mtahost.co:6969/announce
 
 udp://vibe.community:6969/announce
 
@@ -53,8 +53,6 @@ udp://app.icon256.com:8000/announce
 udp://tracker.sigterm.xyz:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-udp://tracker.openbittorrent.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
