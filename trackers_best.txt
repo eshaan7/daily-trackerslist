@@ -18,6 +18,8 @@ udp://aaa.army:8866/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+udp://tracker.shkinev.me:6969/announce
+
 udp://blokas.io:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -57,10 +59,6 @@ http://ipv4announce.sktorrent.eu:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
-
-http://openbittorrent.com:80/announce
-
-udp://ahimsa.yui.cat:6969/announce
 
 https://bt.nfshost.com:443/announce
 
