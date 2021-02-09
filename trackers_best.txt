@@ -1,3 +1,5 @@
+udp://tracker.tiny-vps.com:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -26,9 +28,13 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://storage.groupees.com:6969/announce
+
 udp://mts.tvbit.co:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
+
+http://ns3107607.ip-54-36-126.eu:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
