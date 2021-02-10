@@ -1,5 +1,3 @@
-udp://tracker.tiny-vps.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -11,6 +9,8 @@ https://tracker.nanoha.org:443/announce
 http://tracker.files.fm:6969/announce
 
 https://tracker.tamersunion.org:443/announce
+
+udp://tracker2.dler.org:80/announce
 
 https://tracker.imgoingto.icu:443/announce
 
@@ -49,6 +49,8 @@ udp://inferno.demonoid.is:3391/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 udp://torrentclub.online:54123/announce
 
