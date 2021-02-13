@@ -32,8 +32,6 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://mts.tvbit.co:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
