@@ -36,8 +36,6 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://mts.tvbit.co:6969/announce
-
 udp://tracker.v6speed.org:6969/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
@@ -60,11 +58,11 @@ udp://tracker.sigterm.xyz:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
 
 https://bt.nfshost.com:443/announce
 
 udp://public.tracker.vraphim.com:6969/announce
+
+udp://www.torrent.eu.org:451/announce
 
