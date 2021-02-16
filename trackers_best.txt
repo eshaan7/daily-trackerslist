@@ -4,8 +4,6 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 https://tracker.nanoha.org:443/announce
@@ -58,11 +56,11 @@ udp://tracker.sigterm.xyz:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 https://bt.nfshost.com:443/announce
 
 udp://public.tracker.vraphim.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+http://lima-peru.subventas.com:443/announce
 
