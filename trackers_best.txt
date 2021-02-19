@@ -24,10 +24,6 @@ udp://vibe.community:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://movies.zsw.ca:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
-
 udp://tracker.v6speed.org:6969/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
@@ -41,8 +37,6 @@ udp://inferno.demonoid.is:3391/announce
 udp://tracker.altrosky.nl:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
-
-https://tracker.foreverpirates.co:443/announce
 
 udp://app.icon256.com:8000/announce
 
