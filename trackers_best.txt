@@ -4,6 +4,8 @@ udp://tracker.dler.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://retracker.hotplug.ru:2710/announce
+
 http://tracker.files.fm:6969/announce
 
 https://tracker.sloppyta.co:443/announce
