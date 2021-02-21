@@ -100,11 +100,9 @@ https://tracker.iriseden.eu:443/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://exodus.desync.com:6969/announce
 
-http://tracker.bt4g.com:2095/announce
+udp://ipv6.tracker.harry.lu:80/announce
 
 udp://tracker.beeimg.com:6969/announce
 
@@ -112,13 +110,15 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://line-net.ru:6969/announce
 
-udp://ipv6.tracker.harry.lu:80/announce
+udp://cdn-1.gamecoast.org:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://47.ip-51-68-199.eu:6969/announce
 
-udp://cdn-1.gamecoast.org:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://edu.uifr.ru:6969/announce
 
@@ -126,19 +126,19 @@ udp://retracker.lanta-net.ru:2710/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.gbitt.info:80/announce
+
 udp://bt1.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
 udp://t3.leech.ie:1337/announce
 
-http://tracker.loadbt.com:6969/announce
-
 udp://opentor.org:2710/announce
 
-http://openbittorrent.com:80/announce
+http://tracker.loadbt.com:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+http://openbittorrent.com:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -146,43 +146,43 @@ udp://bt2.archive.org:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
 
-http://tracker.gbitt.info:80/announce
-
-udp://tracker.lelux.fi:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://6rt.tace.ru:80/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 http://t.overflow.biz:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.army:6969/announce
-
-udp://johnrosen1.com:6969/announce
-
-udp://nagios.tks.sumy.ua:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://bt.okmp3.ru:2710/announce
-
-udp://tracker.ds.is:6969/announce
-
-https://1337.abcvg.info:443/announce
+udp://johnrosen1.com:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
+udp://nagios.tks.sumy.ua:80/announce
+
+http://bt.okmp3.ru:2710/announce
+
 udp://tracker.openbittorrent.com:80/announce
+
+https://1337.abcvg.info:443/announce
+
+udp://tracker.ds.is:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
 udp://code2chicken.nl:6969/announce
 
 udp://tracker.edkj.club:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://cutiegirl.ru:6969/announce
 
