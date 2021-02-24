@@ -26,3 +26,7 @@ udp://public.tracker.vraphim.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://free.publictracker.xyz:6969/announce
+
