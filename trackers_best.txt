@@ -1,3 +1,5 @@
+udp://tracker.uw0.xyz:6969/announce
+
 http://tracker.files.fm:6969/announce
 
 https://tracker.sloppyta.co:443/announce
@@ -13,4 +15,6 @@ udp://tracker.sigterm.xyz:6969/announce
 http://ipv4announce.sktorrent.eu:6969/announce
 
 https://bt.nfshost.com:443/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
