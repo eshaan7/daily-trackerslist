@@ -1,7 +1,5 @@
 udp://tracker.uw0.xyz:6969/announce
 
-http://tracker.files.fm:6969/announce
-
 https://tracker.sloppyta.co:443/announce
 
 udp://fe.dealclub.de:6969/announce
