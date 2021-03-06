@@ -8,8 +8,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.sigterm.xyz:6969/announce
-
 https://bt.nfshost.com:443/announce
 
 udp://tracker.torrent.eu.org:451/announce
