@@ -2,6 +2,8 @@ udp://tracker.uw0.xyz:6969/announce
 
 https://tracker.sloppyta.co:443/announce
 
+https://tracker.tamersunion.org:443/announce
+
 udp://tracker.v6speed.org:6969/announce
 
 udp://code2chicken.nl:6969/announce
