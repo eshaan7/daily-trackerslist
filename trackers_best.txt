@@ -18,6 +18,8 @@ udp://t2.leech.ie:1337/announce
 
 udp://t1.leech.ie:1337/announce
 
+udp://us-tracker.publictracker.xyz:6969/announce
+
 udp://tracker.altrosky.nl:6969/announce
 
 udp://app.icon256.com:8000/announce
