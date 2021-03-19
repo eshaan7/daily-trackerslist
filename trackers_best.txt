@@ -2,6 +2,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 https://tracker.sloppyta.co:443/announce
 
+https://tracker.tamersunion.org:443/announce
+
 https://tracker.imgoingto.icu:443/announce
 
 udp://mail.realliferpg.de:6969/announce
