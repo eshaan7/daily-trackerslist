@@ -1,7 +1,5 @@
 udp://open.stealth.si:80/announce
 
-udp://tracker.dler.org:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -29,6 +27,8 @@ udp://ln.mtahost.co:6969/announce
 udp://mail.realliferpg.de:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
+
+udp://47.ip-51-68-199.eu:6969/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
@@ -60,5 +60,5 @@ udp://tracker.torrent.eu.org:451/announce
 
 http://trk.publictracker.xyz:6969/announce
 
-udp://fasttracker.foreverpirates.co:6969/announce
+udp://tracker.nighthawk.pw:2052/announce
 
