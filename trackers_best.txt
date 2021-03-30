@@ -26,8 +26,6 @@ udp://ln.mtahost.co:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
-udp://47.ip-51-68-199.eu:6969/announce
-
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
 udp://t1.leech.ie:1337/announce
@@ -51,4 +49,8 @@ http://trk.publictracker.xyz:6969/announce
 udp://www.torrent.eu.org:451/announce
 
 udp://tracker.nrx.me:6969/announce
+
+http://filetracker.xyz:11451/announce
+
+http://tracker3.itzmx.com:6961/announce
 
