@@ -26,6 +26,8 @@ udp://tracker.v6speed.org:6969/announce
 
 http://ns3107607.ip-54-36-126.eu:6969/announce
 
+udp://inferno.demonoid.is:3391/announce
+
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -43,8 +45,4 @@ udp://tracker.torrent.eu.org:451/announce
 http://trk.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-udp://tracker.nrx.me:6969/announce
-
-http://tracker.ccp.ovh:6969/announce
 
