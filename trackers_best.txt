@@ -2,8 +2,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://newtoncity.org:6969/announce
 
-https://tracker.nanoha.org:443/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
@@ -17,8 +15,6 @@ https://tracker.imgoingto.icu:443/announce
 udp://tracker.shkinev.me:6969/announce
 
 udp://fe.dealclub.de:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.v6speed.org:6969/announce
 
