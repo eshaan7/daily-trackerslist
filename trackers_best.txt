@@ -28,5 +28,3 @@ http://trk.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.ololosh.space:6969/announce
-
