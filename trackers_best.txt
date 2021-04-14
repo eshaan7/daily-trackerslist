@@ -1,7 +1,5 @@
 http://tracker.ipv6tracker.ru:80/announce
 
-http://vps02.net.orel.ru:80/announce
-
 udp://opentor.org:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
@@ -10,15 +8,17 @@ https://tracker.nitrix.me:443/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker.shkinev.me:6969/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://6rt.tace.ru:80/announce
+
+https://tracker.foreverpirates.co:443/announce
 
 udp://app.icon256.com:8000/announce
 
