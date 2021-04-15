@@ -6,6 +6,8 @@ udp://valakas.rollo.dnsabr.com:2710/announce
 
 https://tracker.nitrix.me:443/announce
 
+https://tracker.tamersunion.org:443/announce
+
 udp://tracker.monitorit4.me:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
@@ -29,4 +31,6 @@ udp://free.publictracker.xyz:6969/announce
 http://trk.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
+
+udp://tracker-de.ololosh.space:6969/announce
 
