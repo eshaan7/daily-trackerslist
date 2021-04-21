@@ -14,7 +14,11 @@ https://tracker.tamersunion.org:443/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://wassermann.online:6969/announce
+
 udp://mail.realliferpg.de:6969/announce
+
+udp://cdn-1.gamecoast.org:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
