@@ -46,3 +46,5 @@ http://trk.publictracker.xyz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+udp://tracker.nrx.me:6969/announce
+
