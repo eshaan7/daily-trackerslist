@@ -2,11 +2,11 @@ udp://open.stealth.si:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+https://tracker.nanoha.org:443/announce
+
 udp://opentor.org:2710/announce
 
 udp://valakas.rollo.dnsabr.com:2710/announce
-
-udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -39,8 +39,6 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 udp://free.publictracker.xyz:6969/announce
 
 http://trk.publictracker.xyz:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://tracker.nrx.me:6969/announce
 
