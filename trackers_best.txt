@@ -42,5 +42,3 @@ http://trk.publictracker.xyz:6969/announce
 
 udp://tracker.nrx.me:6969/announce
 
-http://tracker.darmowy-torrent.pl:80/announce
-
