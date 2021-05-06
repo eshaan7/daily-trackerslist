@@ -26,8 +26,6 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://code2chicken.nl:6969/announce
 
-https://tracker.lilithraws.cf:443/announce
-
 udp://6rt.tace.ru:80/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
