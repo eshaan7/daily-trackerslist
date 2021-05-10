@@ -1,5 +1,7 @@
 udp://open.stealth.si:80/announce
 
+udp://tracker.dler.org:6969/announce
+
 udp://tracker.uw0.xyz:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -51,8 +53,6 @@ udp://free.publictracker.xyz:6969/announce
 http://trk.publictracker.xyz:6969/announce
 
 udp://tracker.nrx.me:6969/announce
-
-udp://pow7.com:80/announce
 
 udp://www.torrent.eu.org:451/announce
 
