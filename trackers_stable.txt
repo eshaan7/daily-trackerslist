@@ -64,6 +64,8 @@ udp://tracker.dler.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://tracker.bt4g.com:2095/announce
+
 udp://valakas.rollo.dnsabr.com:2710/announce
 
 udp://tracker.e-utp.net:6969/announce
@@ -80,8 +82,6 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.moeking.me:6969/announce
 
-http://tracker.bt4g.com:2095/announce
-
 udp://opentor.org:2710/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -90,17 +90,17 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
+udp://inferno.demonoid.is:3391/announce
+
+udp://tracker.theoks.net:6969/announce
+
 udp://tracker-de.ololosh.space:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.army:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.theoks.net:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -124,43 +124,43 @@ udp://bt1.archive.org:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
+udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://t1.leech.ie:1337/announce
+udp://bubu.mapfactor.com:6969/announce
 
 http://openbittorrent.com:80/announce
 
 udp://tracker.v6speed.org:6969/announce
 
+udp://t1.leech.ie:1337/announce
+
 https://1337.abcvg.info:443/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
-
-https://tracker.iriseden.fr:443/announce
-
 udp://retracker.lanta-net.ru:2710/announce
-
-https://tracker.imgoingto.icu:443/announce
-
-udp://tracker.ccp.ovh:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
 
+udp://tracker.ccp.ovh:6969/announce
+
+https://tracker.iriseden.fr:443/announce
+
 http://tracker.noobsubs.net:80/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
 udp://camera.lei001.com:6969/announce
 
-udp://open.publictracker.xyz:6969/announce
-
 udp://tracker.openbittorrent.com:80/announce
 
-udp://tr.cili001.com:8070/announce
+udp://open.publictracker.xyz:6969/announce
+
+http://tracker.gbitt.info:80/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 https://tracker.sloppyta.co:443/announce
 
