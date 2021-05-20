@@ -56,3 +56,5 @@ http://announce.partis.si:80/announce
 
 udp://tracker.breizh.pm:6969/announce
 
+https://carapax.net:443/announce
+
