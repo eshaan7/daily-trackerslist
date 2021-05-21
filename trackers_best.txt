@@ -38,6 +38,8 @@ udp://code2chicken.nl:6969/announce
 
 https://tracker.coalition.space:443/announce
 
+udp://inferno.demonoid.is:3391/announce
+
 udp://z.mercax.com:53/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -51,10 +53,4 @@ udp://tracker.zerobytes.xyz:1337/announce
 udp://tracker.nrx.me:6969/announce
 
 udp://www.torrent.eu.org:451/announce
-
-http://announce.partis.si:80/announce
-
-udp://tracker.breizh.pm:6969/announce
-
-https://carapax.net:443/announce
 
