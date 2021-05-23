@@ -16,8 +16,6 @@ http://tracker.files.fm:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
-http://t.overflow.biz:6969/announce
-
 https://tracker.tamersunion.org:443/announce
 
 udp://tracker2.dler.com:80/announce
@@ -70,8 +68,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://app.icon256.com:8000/announce
 
-http://tracker-cdn.moeking.me:2095/announce
-
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -82,6 +78,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
 udp://opentor.org:2710/announce
 
 udp://tracker.e-utp.net:6969/announce
@@ -90,9 +88,9 @@ udp://movies.zsw.ca:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
-http://tracker.ipv6tracker.ru:80/announce
+udp://pow7.com:80/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.beeimg.com:6969/announce
 
@@ -100,13 +98,9 @@ udp://opentracker.i2p.rocks:6969/announce
 
 https://tracker.nitrix.me:443/announce
 
-udp://pow7.com:80/announce
-
-udp://tracker.breizh.pm:6969/announce
+http://tracker-cdn.moeking.me:2095/announce
 
 udp://retracker.netbynet.ru:2710/announce
-
-udp://udp-tracker.shittyurl.org:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -114,17 +108,23 @@ udp://engplus.ru:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
+udp://udp-tracker.shittyurl.org:6969/announce
+
+udp://tracker.breizh.pm:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://t2.leech.ie:1337/announce
+udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://t2.leech.ie:1337/announce
 
 udp://tracker.ololosh.space:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 https://carapax.net:443/announce
+
+http://t.overflow.biz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
@@ -136,33 +136,33 @@ http://openbittorrent.com:80/announce
 
 https://1337.abcvg.info:443/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
-
 udp://t1.leech.ie:1337/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
-http://bt.okmp3.ru:2710/announce
-
 udp://camera.lei001.com:6969/announce
 
-http://tracker.noobsubs.net:80/announce
+http://bt.okmp3.ru:2710/announce
 
-http://home.yxgz.club:6969/announce
+http://tracker.noobsubs.net:80/announce
 
 udp://tracker.openbittorrent.com:80/announce
 
 https://tracker.iriseden.fr:443/announce
 
-udp://open.publictracker.xyz:6969/announce
+http://home.yxgz.club:6969/announce
 
-http://announce.partis.si:80/announce
+udp://9.rarbg.com:2730/announce
+
+udp://public.publictracker.xyz:6969/announce
 
 http://vpn.flying-datacenter.de:6969/announce
 
-udp://public.publictracker.xyz:6969/announce
+udp://open.publictracker.xyz:6969/announce
 
 https://tracker.sloppyta.co:443/announce
 
