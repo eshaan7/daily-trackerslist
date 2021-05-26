@@ -18,7 +18,7 @@ https://tracker.tamersunion.org:443/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://discord.heihachi.pw:6969/announce
+udp://tracker.shkinev.me:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -37,6 +37,8 @@ udp://inferno.demonoid.is:3391/announce
 udp://z.mercax.com:53/announce
 
 udp://tracker.0x.tf:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
 
 udp://torrentclub.online:54123/announce
 
