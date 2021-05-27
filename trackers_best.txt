@@ -2,8 +2,6 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.uw0.xyz:6969/announce
 
-udp://retracker.hotplug.ru:2710/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -11,6 +9,8 @@ http://vps02.net.orel.ru:80/announce
 https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
+
+http://tracker.noobsubs.net:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -30,8 +30,6 @@ http://rt.tace.ru:80/announce
 
 udp://code2chicken.nl:6969/announce
 
-https://tracker.coalition.space:443/announce
-
 udp://inferno.demonoid.is:3391/announce
 
 udp://z.mercax.com:53/announce
@@ -39,6 +37,8 @@ udp://z.mercax.com:53/announce
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+https://tracker.lilithraws.cf:443/announce
 
 udp://torrentclub.online:54123/announce
 
