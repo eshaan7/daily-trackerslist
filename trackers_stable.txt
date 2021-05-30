@@ -10,10 +10,6 @@ https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
 
-udp://opentor.org:2710/announce
-
-http://tracker.noobsubs.net:80/announce
-
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -26,11 +22,7 @@ udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://code2chicken.nl:6969/announce
-
 udp://inferno.demonoid.is:3391/announce
-
-udp://z.mercax.com:53/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -46,11 +38,17 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.nrx.me:6969/announce
 
+https://tracker.iriseden.eu:443/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.moeking.me:6969/announce
+
+udp://opentor.org:2710/announce
+
+http://tracker.noobsubs.net:80/announce
 
 udp://tracker.e-utp.net:6969/announce
 
@@ -76,9 +74,11 @@ udp://explodie.org:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 http://tracker.bt4g.com:2095/announce
 
-udp://valakas.rollo.dnsabr.com:2710/announce
+udp://mts.tvbit.co:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
@@ -90,11 +90,13 @@ udp://tracker-de.ololosh.space:6969/announce
 
 udp://pow7.com:80/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.beeimg.com:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
+udp://valakas.rollo.dnsabr.com:2710/announce
 
 https://tracker.nitrix.me:443/announce
 
@@ -104,51 +106,51 @@ http://rt.tace.ru:80/announce
 
 http://tracker-cdn.moeking.me:2095/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://9.rarbg.com:2780/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://9.rarbg.com:2720/announce
-
-udp://bt2.archive.org:6969/announce
-
-udp://mts.tvbit.co:6969/announce
-
 https://carapax.net:443/announce
 
-udp://exodus.desync.com:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 http://t.nyaatracker.com:80/announce
-
-udp://opentracker.i2p.rocks:6969/announce
 
 udp://tracker.ccp.ovh:6969/announce
 
-udp://engplus.ru:6969/announce
+udp://opentracker.i2p.rocks:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
+
+udp://engplus.ru:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+udp://z.mercax.com:53/announce
+
 http://openbittorrent.com:80/announce
 
 http://t.overflow.biz:6969/announce
 
-http://bt.okmp3.ru:2710/announce
+udp://code2chicken.nl:6969/announce
 
 https://1337.abcvg.info:443/announce
 
+udp://camera.lei001.com:6969/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
 
-udp://camera.lei001.com:6969/announce
+http://bt.okmp3.ru:2710/announce
 
 udp://retracker.lanta-net.ru:2710/announce
 
@@ -156,11 +158,15 @@ http://vpn.flying-datacenter.de:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
-https://tracker.sloppyta.co:443/announce
-
 udp://tracker.openbittorrent.com:80/announce
 
 https://tracker.iriseden.fr:443/announce
 
 http://torrenttracker.nwc.acsalaska.net:6969/announce
+
+https://tracker.sloppyta.co:443/announce
+
+http://h4.trakx.nibba.trade:80/announce
+
+udp://cutiegirl.ru:6969/announce
 
