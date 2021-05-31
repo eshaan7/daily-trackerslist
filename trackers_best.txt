@@ -38,5 +38,5 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.nrx.me:6969/announce
 
-https://tracker.iriseden.eu:443/announce
+udp://bt-trace.adgk.net:6969/announce
 
