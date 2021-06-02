@@ -1,7 +1,5 @@
 udp://open.stealth.si:80/announce
 
-udp://tracker.uw0.xyz:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -22,6 +20,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://wassermann.online:6969/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 udp://inferno.demonoid.is:3391/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -40,5 +40,7 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.nrx.me:6969/announce
 
-udp://bt-trace.adgk.net:6969/announce
+https://tr.torland.ga:443/announce
+
+http://nyaa.tracker.wf:7777/announce
 
