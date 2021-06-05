@@ -18,8 +18,6 @@ udp://fe.dealclub.de:6969/announce
 
 udp://wassermann.online:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://inferno.demonoid.is:3391/announce
 
 udp://tracker.0x.tf:6969/announce
