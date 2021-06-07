@@ -20,6 +20,8 @@ udp://wassermann.online:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://mts.tvbit.co:6969/announce
+
 udp://inferno.demonoid.is:3391/announce
 
 udp://tracker.0x.tf:6969/announce
