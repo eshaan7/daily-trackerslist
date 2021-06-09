@@ -6,21 +6,19 @@ http://vps02.net.orel.ru:80/announce
 
 https://tracker.nanoha.org:443/announce
 
-http://tracker.files.fm:6969/announce
+udp://tracker.beeimg.com:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://fe.dealclub.de:6969/announce
-
 udp://wassermann.online:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://mts.tvbit.co:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 
-udp://inferno.demonoid.is:3391/announce
+udp://mts.tvbit.co:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
