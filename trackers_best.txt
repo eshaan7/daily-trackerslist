@@ -14,8 +14,6 @@ https://tracker.tamersunion.org:443/announce
 
 udp://wassermann.online:6969/announce
 
-udp://movies.zsw.ca:6969/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.0x.tf:6969/announce
