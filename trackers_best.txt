@@ -1,7 +1,5 @@
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
 http://vps02.net.orel.ru:80/announce
 
 https://tracker.nanoha.org:443/announce
@@ -16,8 +14,6 @@ https://tracker.tamersunion.org:443/announce
 
 udp://wassermann.online:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -25,6 +21,8 @@ udp://tracker.altrosky.nl:6969/announce
 https://tracker.lilithraws.cf:443/announce
 
 udp://app.icon256.com:8000/announce
+
+http://tracker-cdn.moeking.me:2095/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -35,4 +33,6 @@ udp://tracker.nrx.me:6969/announce
 udp://tracker-de.ololosh.space:6969/announce
 
 https://tr.torland.ga:443/announce
+
+http://buny.uk:6969/announce
 
