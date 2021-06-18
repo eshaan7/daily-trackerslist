@@ -24,3 +24,7 @@ udp://tracker.nrx.me:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
+http://fxtt.ru:80/announce
+
+http://ed2k.vip:7070/announce
+
