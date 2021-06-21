@@ -24,9 +24,5 @@ udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.nrx.me:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
-http://fxtt.ru:80/announce
-
 http://googer.cc:1337/announce
 
