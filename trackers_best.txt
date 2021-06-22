@@ -2,6 +2,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://tracker6.lelux.fi:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
@@ -14,15 +16,17 @@ udp://tracker.shkinev.me:6969/announce
 
 udp://wassermann.online:6969/announce
 
+udp://mail.realliferpg.de:6969/announce
+
 udp://tracker.altrosky.nl:6969/announce
 
 udp://app.icon256.com:8000/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.nrx.me:6969/announce
 
 http://googer.cc:1337/announce
+
+udp://www.torrent.eu.org:451/announce
 
