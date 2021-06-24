@@ -2,6 +2,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 udp://tracker6.lelux.fi:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
