@@ -4,8 +4,6 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker6.lelux.fi:6969/announce
-
 udp://tracker.beeimg.com:6969/announce
 
 https://tracker.nitrix.me:443/announce
@@ -17,6 +15,8 @@ udp://tracker.shkinev.me:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
+
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -31,6 +31,4 @@ udp://www.torrent.eu.org:451/announce
 udp://bt.yui.cat:55268/announce
 
 https://mytracker.fly.dev:443/announce
-
-https://tracker.iriseden.eu:443/announce
 
