@@ -1,3 +1,5 @@
+udp://open.stealth.si:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -9,6 +11,8 @@ https://tracker.nitrix.me:443/announce
 https://tracker.tamersunion.org:443/announce
 
 udp://tracker.shkinev.me:6969/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://wassermann.online:6969/announce
 
