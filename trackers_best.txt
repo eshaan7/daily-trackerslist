@@ -1,4 +1,4 @@
-udp://9.rarbg.com:2920/announce
+udp://9.rarbg.com:2790/announce
 
 udp://open.stealth.si:80/announce
 
@@ -14,11 +14,13 @@ https://tracker.tamersunion.org:443/announce
 
 udp://tracker.army:6969/announce
 
-udp://tracker.shkinev.me:6969/announce
+udp://tracker2.dler.com:80/announce
 
 udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
+
+udp://movies.zsw.ca:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
