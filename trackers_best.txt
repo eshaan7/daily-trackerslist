@@ -1,7 +1,5 @@
 udp://explodie.org:6969/announce
 
-udp://open.stealth.si:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -25,6 +23,8 @@ udp://mail.realliferpg.de:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+https://trakx.herokuapp.com:443/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
