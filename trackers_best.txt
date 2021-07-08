@@ -22,9 +22,11 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 https://trakx.herokuapp.com:443/announce
 
+udp://tracker.0x.tf:6969/announce
+
 udp://tracker.altrosky.nl:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
+https://tracker.lilithraws.cf:443/announce
 
 http://googer.cc:1337/announce
 
