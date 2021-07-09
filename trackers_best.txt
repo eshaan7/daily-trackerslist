@@ -28,6 +28,8 @@ udp://tracker.altrosky.nl:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tr.torland.ga:443/announce
+
 http://googer.cc:1337/announce
 
 udp://www.torrent.eu.org:451/announce

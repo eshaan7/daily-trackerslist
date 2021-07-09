@@ -28,6 +28,8 @@ udp://tracker.altrosky.nl:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+https://tr.torland.ga:443/announce
+
 http://googer.cc:1337/announce
 
 udp://www.torrent.eu.org:451/announce
@@ -66,9 +68,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-https://tr.torland.ga:443/announce
-
-udp://9.rarbg.com:2980/announce
+udp://9.rarbg.com:2850/announce
 
 udp://code2chicken.nl:6969/announce
 
@@ -77,8 +77,6 @@ udp://tracker1.bt.moack.co.kr:80/announce
 udp://tracker.nrx.me:6969/announce
 
 https://mytracker.fly.dev:443/announce
-
-udp://retracker.netbynet.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
@@ -90,49 +88,49 @@ udp://tracker6.lelux.fi:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 http://tracker-cdn.moeking.me:2095/announce
 
-udp://tracker.e-utp.net:6969/announce
+udp://retracker.netbynet.ru:2710/announce
 
 https://tracker.coalition.space:443/announce
 
-udp://tracker.moeking.me:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
-
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://pow7.com:80/announce
+udp://tracker.moeking.me:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.leech.ie:1337/announce
 
-http://t.nyaatracker.com:80/announce
+udp://pow7.com:80/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
+http://t.nyaatracker.com:80/announce
+
 udp://inferno.demonoid.is:3391/announce
-
-udp://edu.uifr.ru:6969/announce
-
-https://tracker.nanoha.org:443/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://edu.uifr.ru:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tracker.e-utp.net:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
-http://tracker.loadbt.com:6969/announce
-
 udp://camera.lei001.com:6969/announce
 
-udp://bt-trace.adgk.net:6969/announce
+http://tracker.loadbt.com:6969/announce
+
+https://atrack-asia-e2.120181311.xyz:443/announce
 
