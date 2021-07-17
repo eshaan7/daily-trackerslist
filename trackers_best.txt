@@ -20,7 +20,11 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://mts.tvbit.co:6969/announce
+
 udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://code2chicken.nl:6969/announce
 
 https://trakx.herokuapp.com:443/announce
 
