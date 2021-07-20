@@ -1,7 +1,5 @@
 udp://explodie.org:6969/announce
 
-udp://tracker.uw0.xyz:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -19,8 +17,6 @@ udp://wassermann.online:6969/announce
 udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://mts.tvbit.co:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
