@@ -48,7 +48,5 @@ https://tr.torland.ga:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://bt.yui.cat:55268/announce
-
 https://mytracker.fly.dev:443/announce
 
