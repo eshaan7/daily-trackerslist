@@ -1,7 +1,5 @@
 udp://tracker.birkenwald.de:6969/announce
 
-http://tracker.bt4g.com:2095/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -22,8 +20,6 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://edu.uifr.ru:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
@@ -43,6 +39,8 @@ udp://app.icon256.com:8000/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.nrx.me:6969/announce
 
 https://tr.torland.ga:443/announce
 
