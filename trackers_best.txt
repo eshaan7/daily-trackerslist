@@ -1,5 +1,7 @@
 udp://open.stealth.si:80/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -46,11 +48,7 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.nrx.me:6969/announce
-
 https://tr.torland.ga:443/announce
-
-udp://www.torrent.eu.org:451/announce
 
 https://mytracker.fly.dev:443/announce
 
