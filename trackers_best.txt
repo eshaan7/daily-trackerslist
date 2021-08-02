@@ -1,7 +1,5 @@
 udp://open.stealth.si:80/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -30,13 +28,9 @@ udp://movies.zsw.ca:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
-udp://code2chicken.nl:6969/announce
-
 udp://abufinzio.monocul.us:6969/announce
 
 https://trakx.herokuapp.com:443/announce
-
-udp://tracker.0x.tf:6969/announce
 
 udp://app.icon256.com:8000/announce
 
