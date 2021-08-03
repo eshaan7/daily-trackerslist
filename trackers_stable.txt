@@ -76,51 +76,49 @@ udp://inferno.demonoid.is:3391/announce
 
 http://vps02.net.orel.ru:80/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://engplus.ru:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
-udp://bt.yui.cat:55268/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.theoks.net:6969/announce
+udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.breizh.pm:6969/announce
 
-udp://9.rarbg.com:2730/announce
+udp://bt.yui.cat:55268/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://tracker.theoks.net:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
-http://tracker.noobsubs.net:80/announce
+udp://9.rarbg.com:2860/announce
 
-udp://tracker.dler.com:6969/announce
+udp://tracker6.lelux.fi:6969/announce
 
 udp://retracker.netbynet.ru:2710/announce
+
+udp://tracker.dler.com:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
+http://tracker.noobsubs.net:80/announce
+
 udp://tracker.nrx.me:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://tracker.army:6969/announce
+udp://pow7.com:80/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://pow7.com:80/announce
-
-udp://code2chicken.nl:6969/announce
+udp://tracker.army:6969/announce
 
 http://tracker.gbitt.info:80/announce
 
@@ -130,9 +128,13 @@ udp://p4p.arenabg.com:1337/announce
 
 http://bt.okmp3.ru:2710/announce
 
+udp://code2chicken.nl:6969/announce
+
 http://open.acgnxtracker.com:80/announce
+
+udp://camera.lei001.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://camera.lei001.com:6969/announce
+udp://btt.service.gongt.me:43079/announce
 
