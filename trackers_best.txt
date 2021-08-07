@@ -36,7 +36,5 @@ udp://tracker.ololosh.space:6969/announce
 
 https://tr.torland.ga:443/announce
 
-https://mytracker.fly.dev:443/announce
-
 udp://tracker.moeking.eu.org:6969/announce
 
