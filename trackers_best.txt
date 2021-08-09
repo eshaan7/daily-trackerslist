@@ -1,5 +1,7 @@
 udp://open.stealth.si:80/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.files.fm:6969/announce
