@@ -1,8 +1,8 @@
 udp://open.stealth.si:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.birkenwald.de:6969/announce
+
+http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -24,11 +24,11 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://mts.tvbit.co:6969/announce
+
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 https://trakx.herokuapp.com:443/announce
-
-udp://app.icon256.com:8000/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
