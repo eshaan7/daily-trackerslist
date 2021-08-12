@@ -26,6 +26,8 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 https://trakx.herokuapp.com:443/announce
@@ -38,6 +40,8 @@ https://tr.torland.ga:443/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
+udp://tracker.bitsearch.to:1337/announce
+
 udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.uw0.xyz:6969/announce
@@ -45,8 +49,6 @@ udp://tracker.uw0.xyz:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://discord.heihachi.pw:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
@@ -72,35 +74,33 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://retracker.netbynet.ru:2710/announce
-
-udp://tracker.monitorit4.me:6969/announce
-
 udp://tracker.breizh.pm:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
+
+udp://retracker.netbynet.ru:2710/announce
 
 udp://tracker0.ufibox.com:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://9.rarbg.com:2740/announce
+udp://9.rarbg.com:2720/announce
 
 http://t.nyaatracker.com:80/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
-udp://btt.service.gongt.me:43079/announce
-
 udp://tracker.theoks.net:6969/announce
+
+udp://pow7.com:80/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-udp://pow7.com:80/announce
+udp://tracker.monitorit4.me:6969/announce
 
 https://mytracker.fly.dev:443/announce
 
@@ -112,11 +112,11 @@ udp://bms-hosxp.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.nrx.me:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
-udp://edu.uifr.ru:6969/announce
+udp://tracker.nrx.me:6969/announce
+
+udp://btt.service.gongt.me:43079/announce
 
 udp://tracker.army:6969/announce
 
@@ -124,7 +124,7 @@ udp://p4p.arenabg.com:1337/announce
 
 udp://code2chicken.nl:6969/announce
 
-udp://tracker.leech.ie:1337/announce
-
 udp://vibe.community:6969/announce
+
+udp://tracker.leech.ie:1337/announce
 
