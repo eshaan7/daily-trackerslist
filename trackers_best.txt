@@ -40,5 +40,5 @@ https://tr.torland.ga:443/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
-udp://tracker.bitsearch.to:1337/announce
+https://tracker.kuroy.me:443/announce
 
