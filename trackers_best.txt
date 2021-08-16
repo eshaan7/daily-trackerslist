@@ -1,6 +1,2 @@
-http://tracker.files.fm:6969/announce
-
 http://h4.trakx.nibba.trade:80/announce
-
-udp://mail.realliferpg.de:6969/announce
 
