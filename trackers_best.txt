@@ -1,2 +1,4 @@
 http://h4.trakx.nibba.trade:80/announce
 
+http://fosstorrents.com:6969/announce
+
