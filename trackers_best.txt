@@ -1,6 +1,4 @@
 http://h4.trakx.nibba.trade:80/announce
 
-udp://tracker-de.ololosh.space:6969/announce
-
 http://tracker.corpscorp.online:80/announce
 
