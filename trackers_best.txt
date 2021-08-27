@@ -6,5 +6,5 @@ udp://tracker.haynet.io:6969/announce
 
 https://trackme.theom.nz:443/announce
 
-udp://udp.tracker.coalition.space:1337/announce
+udp://tracker.jordan.im:6969/announce
 
