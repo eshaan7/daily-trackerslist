@@ -1,5 +1,7 @@
 http://h4.trakx.nibba.trade:80/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 http://tracker.corpscorp.online:80/announce
 
 udp://tracker.haynet.io:6969/announce

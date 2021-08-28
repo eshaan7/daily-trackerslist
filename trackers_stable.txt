@@ -1,5 +1,7 @@
 http://h4.trakx.nibba.trade:80/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 http://tracker.corpscorp.online:80/announce
 
 udp://tracker.haynet.io:6969/announce
@@ -12,15 +14,13 @@ udp://open.stealth.si:80/announce
 
 udp://discord.heihachi.pw:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
+udp://tracker.uw0.xyz:6969/announce
 
 http://tracker.files.fm:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
 https://tr.torland.ga:443/announce
-
-udp://tracker.uw0.xyz:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
@@ -58,11 +58,9 @@ udp://tracker0.ufibox.com:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 https://tracker.kuroy.me:443/announce
 
-udp://opentor.org:2710/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -72,39 +70,39 @@ udp://wassermann.online:6969/announce
 
 udp://engplus.ru:6969/announce
 
+https://mytracker.fly.dev:443/announce
+
+https://tracker.coalition.space:443/announce
+
 udp://vibe.community:6969/announce
 
 udp://bms-hosxp.com:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
-https://tracker.coalition.space:443/announce
-
-udp://tracker.bitsearch.to:1337/announce
-
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
-udp://9.rarbg.com:2840/announce
 
 http://t.nyaatracker.com:80/announce
 
-udp://udp.tracker.coalition.space:1337/announce
+udp://tracker.torrent.eu.org:451/announce
+
+udp://9.rarbg.com:2830/announce
 
 udp://explodie.org:6969/announce
 
+udp://udp.tracker.coalition.space:1337/announce
+
 udp://tracker.birkenwald.de:6969/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 udp://www.torrent.eu.org:451/announce
-
-https://mytracker.fly.dev:443/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 udp://tracker.beeimg.com:6969/announce
 
@@ -114,31 +112,27 @@ udp://tracker.moeking.me:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
+udp://bt1.archive.org:6969/announce
+
 https://tracker.lilithraws.cf:443/announce
 
-udp://bt1.archive.org:6969/announce
+udp://opentor.org:2710/announce
+
+http://open.acgnxtracker.com:80/announce
+
+udp://tracker.army:6969/announce
 
 udp://pow7.com:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://tracker.army:6969/announce
-
 udp://tracker6.lelux.fi:6969/announce
 
-http://fosstorrents.com:6969/announce
-
-http://open.acgnxtracker.com:80/announce
-
-udp://btt.service.gongt.me:43079/announce
-
-https://bittorrent.gongt.net:443/announce
-
 http://bt.okmp3.ru:2710/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
