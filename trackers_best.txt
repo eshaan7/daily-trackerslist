@@ -4,8 +4,6 @@ https://tracker.tamersunion.org:443/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
-http://tracker.corpscorp.online:80/announce
-
 udp://tracker.haynet.io:6969/announce
 
 https://trackme.theom.nz:443/announce
