@@ -2,10 +2,6 @@ http://h4.trakx.nibba.trade:80/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
-udp://tracker.haynet.io:6969/announce
-
 https://trackme.theom.nz:443/announce
 
 udp://tracker.jordan.im:6969/announce
