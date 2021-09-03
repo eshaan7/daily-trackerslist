@@ -1,3 +1,5 @@
+http://tracker.ipv6tracker.ru:80/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 https://tracker.tamersunion.org:443/announce
