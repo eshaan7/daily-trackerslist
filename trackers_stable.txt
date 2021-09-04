@@ -30,6 +30,8 @@ https://trakx.herokuapp.com:443/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+http://tracker.corpscorp.online:80/announce
+
 http://vps02.net.orel.ru:80/announce
 
 https://tracker.nitrix.me:443/announce
@@ -42,11 +44,7 @@ udp://code2chicken.nl:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-https://tracker.lilithraws.cf:443/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
-
-http://tracker.corpscorp.online:80/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -60,8 +58,6 @@ udp://tracker.0x.tf:6969/announce
 
 http://googer.cc:1337/announce
 
-https://mytracker.fly.dev:443/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -70,49 +66,45 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.ololosh.space:6969/announce
 
+udp://tracker.bitsearch.to:1337/announce
+
 udp://wassermann.online:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.uw0.xyz:6969/announce
+https://tracker.lilithraws.cf:443/announce
 
 udp://vibe.community:6969/announce
 
 https://tracker.coalition.space:443/announce
 
-http://tracker.bt4g.com:2095/announce
-
 udp://tracker.dler.com:6969/announce
-
-http://t.nyaatracker.com:80/announce
-
-udp://retracker.netbynet.ru:2710/announce
 
 udp://mts.tvbit.co:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
-udp://bms-hosxp.com:6969/announce
+http://t.nyaatracker.com:80/announce
+
+http://tracker.bt4g.com:2095/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
-udp://9.rarbg.com:2720/announce
+udp://9.rarbg.com:2890/announce
+
+udp://bms-hosxp.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-http://t.overflow.biz:6969/announce
-
 udp://bt2.archive.org:6969/announce
+
+http://t.overflow.biz:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
@@ -128,11 +120,17 @@ udp://tracker.moeking.me:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
-udp://tracker.army:6969/announce
+udp://retracker.netbynet.ru:2710/announce
+
+udp://tracker.lelux.fi:6969/announce
+
+udp://pow7.com:80/announce
+
+https://mytracker.fly.dev:443/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
-udp://pow7.com:80/announce
+udp://tracker.army:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
