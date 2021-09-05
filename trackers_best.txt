@@ -1,8 +1,12 @@
+udp://open.stealth.si:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
 
 https://tracker.tamersunion.org:443/announce
+
+udp://discord.heihachi.pw:6969/announce
 
 https://trackme.theom.nz:443/announce
 
