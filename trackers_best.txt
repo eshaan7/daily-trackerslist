@@ -2,11 +2,33 @@ udp://open.stealth.si:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+http://vps02.net.orel.ru:80/announce
+
+https://tracker.nanoha.org:443/announce
+
+http://tracker.files.fm:6969/announce
+
 http://h4.trakx.nibba.trade:80/announce
 
 https://tracker.tamersunion.org:443/announce
 
+udp://tracker.monitorit4.me:6969/announce
+
 udp://discord.heihachi.pw:6969/announce
+
+udp://fe.dealclub.de:6969/announce
+
+udp://mail.realliferpg.de:6969/announce
+
+udp://movies.zsw.ca:6969/announce
+
+udp://abufinzio.monocul.us:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
+
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 https://trackme.theom.nz:443/announce
 
