@@ -50,7 +50,5 @@ https://tracker.kuroy.me:443/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
-udp://www.torrent.eu.org:451/announce
-
 udp://bt.oiyo.tk:6969/announce
 
