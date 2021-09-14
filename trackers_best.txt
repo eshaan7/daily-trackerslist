@@ -24,19 +24,17 @@ udp://fe.dealclub.de:6969/announce
 
 udp://vibe.community:6969/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
-
 udp://code2chicken.nl:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
+
+udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 

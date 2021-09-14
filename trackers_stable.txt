@@ -24,19 +24,17 @@ udp://fe.dealclub.de:6969/announce
 
 udp://vibe.community:6969/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
-
 udp://code2chicken.nl:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
+
+udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -54,9 +52,9 @@ udp://bt.oiyo.tk:6969/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://bubu.mapfactor.com:6969/announce
+udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker.0x.tf:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tr.torland.ga:443/announce
 
@@ -72,7 +70,7 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -80,27 +78,31 @@ udp://tracker.cyberia.is:6969/announce
 
 https://trakx.herokuapp.com:443/announce
 
-udp://tracker.theoks.net:6969/announce
-
-udp://tracker.dler.com:6969/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://engplus.ru:6969/announce
+
+udp://tracker.blacksparrowmedia.net:6969/announce
+
+udp://tracker.theoks.net:6969/announce
+
+udp://www.torrent.eu.org:451/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
 http://tracker.corpscorp.online:80/announce
 
-udp://www.torrent.eu.org:451/announce
-
-udp://p4p.arenabg.com:1337/announce
-
 udp://explodie.org:6969/announce
-
-udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.xn--vzyr4p.top:80/announce
 
 udp://tracker.opentrackr.org:1337/announce
+
+udp://p4p.arenabg.com:1337/announce
+
+udp://tracker.moeking.me:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -108,17 +110,15 @@ udp://mts.tvbit.co:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
-udp://9.rarbg.com:2850/announce
+udp://bms-hosxp.com:6969/announce
+
+udp://9.rarbg.com:2740/announce
 
 http://t.nyaatracker.com:80/announce
 
-udp://bms-hosxp.com:6969/announce
-
-udp://bt2.archive.org:6969/announce
-
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://bt2.archive.org:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
@@ -128,23 +128,25 @@ udp://tracker.army:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-https://trackme.theom.nz:443/announce
+http://t.acg.rip:6699/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
-http://bt.okmp3.ru:2710/announce
-
-http://t.acg.rip:6699/announce
+https://trackme.theom.nz:443/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
+
+http://bt.okmp3.ru:2710/announce
+
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://edu.uifr.ru:6969/announce
 
 udp://pow7.com:80/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
-
 http://ipv4announce.sktorrent.eu:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
+
+udp://tracker.breizh.pm:6969/announce
 
