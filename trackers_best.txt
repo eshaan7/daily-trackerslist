@@ -16,8 +16,6 @@ https://tracker.nitrix.me:443/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://discord.heihachi.pw:6969/announce
 
 udp://fe.dealclub.de:6969/announce
