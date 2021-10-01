@@ -32,8 +32,6 @@ udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://code2chicken.nl:6969/announce
