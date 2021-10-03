@@ -50,13 +50,13 @@ udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.moeking.me:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 http://h4.trakx.nibba.trade:80/announce
-
-udp://tracker.cyberia.is:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -68,21 +68,21 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 https://tr.torland.ga:443/announce
 
 http://googer.cc:1337/announce
 
+udp://tracker.bitsearch.to:1337/announce
+
 udp://exodus.desync.com:6969/announce
+
+udp://tracker0.ufibox.com:6969/announce
 
 udp://engplus.ru:6969/announce
 
@@ -90,11 +90,9 @@ udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
-http://tracker.corpscorp.online:80/announce
+udp://www.torrent.eu.org:451/announce
 
 udp://tracker.opentrackr.org:1337/announce
-
-udp://tracker.army:6969/announce
 
 udp://bms-hosxp.com:6969/announce
 
@@ -102,21 +100,21 @@ https://trakx.herokuapp.com:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://www.torrent.eu.org:451/announce
-
-http://tracker.noobsubs.net:80/announce
-
-udp://tracker.breizh.pm:6969/announce
+udp://tracker.army:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
 
 https://tracker.iriseden.fr:443/announce
 
+udp://tracker.breizh.pm:6969/announce
+
 udp://explodie.org:6969/announce
 
-udp://tracker.ololosh.space:6969/announce
+http://tracker.noobsubs.net:80/announce
 
 http://t.nyaatracker.com:80/announce
+
+udp://tracker.ololosh.space:6969/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
@@ -124,17 +122,17 @@ https://trackme.theom.nz:443/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
-udp://9.rarbg.com:2750/announce
-
 http://t.overflow.biz:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
-udp://mts.tvbit.co:6969/announce
+udp://9.rarbg.com:2920/announce
+
+udp://p4p.arenabg.com:1337/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
+
+udp://mts.tvbit.co:6969/announce
 
 udp://camera.lei001.com:6969/announce
 
@@ -143,6 +141,8 @@ udp://pow7.com:80/announce
 udp://bt2.archive.org:6969/announce
 
 http://ipv4announce.sktorrent.eu:6969/announce
+
+http://bt.okmp3.ru:2710/announce
 
 udp://tracker.haynet.io:6969/announce
 
