@@ -54,3 +54,5 @@ udp://tracker.jordan.im:6969/announce
 
 udp://escorts.subventas.com:53/announce
 
+udp://jeremylee.sh:6969/announce
+
