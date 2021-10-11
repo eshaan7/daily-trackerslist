@@ -48,6 +48,8 @@ https://tracker.lilithraws.cf:443/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+https://tr.torland.ga:443/announce
+
 udp://tracker.moeking.eu.org:6969/announce
 
 https://trackme.theom.nz:443/announce
@@ -55,8 +57,6 @@ https://trackme.theom.nz:443/announce
 udp://tracker.jordan.im:6969/announce
 
 udp://escorts.subventas.com:53/announce
-
-udp://jeremylee.sh:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
