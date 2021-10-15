@@ -26,6 +26,8 @@ udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
