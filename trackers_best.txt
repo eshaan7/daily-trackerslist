@@ -1,5 +1,7 @@
 udp://open.stealth.si:80/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 https://tracker.nanoha.org:443/announce
@@ -23,8 +25,6 @@ udp://vibe.community:6969/announce
 udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
