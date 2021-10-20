@@ -16,6 +16,8 @@ https://tracker.tamersunion.org:443/announce
 
 udp://tracker2.dler.com:80/announce
 
+https://tracker.imgoingto.icu:443/announce
+
 udp://discord.heihachi.pw:6969/announce
 
 udp://fe.dealclub.de:6969/announce
