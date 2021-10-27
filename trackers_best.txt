@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.stealth.si:80/announce
-
 udp://exodus.desync.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
