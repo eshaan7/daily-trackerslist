@@ -4,15 +4,9 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-https://tracker.nanoha.org:443/announce
-
 http://tracker.files.fm:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
-
-https://tracker.tamersunion.org:443/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -49,4 +43,6 @@ https://trackme.theom.nz:443/announce
 udp://escorts.subventas.com:53/announce
 
 udp://tracker-de.ololosh.space:6969/announce
+
+https://tracker.trafficmgr.net:443/announce
 
