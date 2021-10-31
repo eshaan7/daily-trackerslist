@@ -44,5 +44,3 @@ udp://escorts.subventas.com:53/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
-https://tracker.trafficmgr.net:443/announce
-
