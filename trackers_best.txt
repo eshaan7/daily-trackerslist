@@ -1,3 +1,5 @@
+udp://tracker.cyberia.is:6969/announce
+
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -35,8 +37,6 @@ https://tr.torland.ga:443/announce
 udp://tracker.moeking.eu.org:6969/announce
 
 https://trackme.theom.nz:443/announce
-
-udp://escorts.subventas.com:53/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
