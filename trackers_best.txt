@@ -22,6 +22,8 @@ udp://wassermann.online:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
+udp://movies.zsw.ca:6969/announce
+
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
@@ -38,7 +40,11 @@ https://tr.torland.ga:443/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
+https://tracker.kuroy.me:443/announce
+
 https://trackme.theom.nz:443/announce
+
+udp://jeremylee.sh:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
 
