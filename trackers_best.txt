@@ -6,8 +6,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://tracker.files.fm:6969/announce
-
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 https://tracker.imgoingto.icu:443/announce
@@ -21,8 +19,6 @@ udp://wassermann.online:6969/announce
 udp://mail.realliferpg.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
-
-udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
 
@@ -45,4 +41,6 @@ https://trackme.theom.nz:443/announce
 udp://jeremylee.sh:6969/announce
 
 udp://tracker-de.ololosh.space:6969/announce
+
+https://tracker.loligirl.cn:443/announce
 
