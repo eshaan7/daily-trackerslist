@@ -68,6 +68,8 @@ udp://6ahddutb1ucc3cp.ru:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -75,8 +77,6 @@ udp://tracker.bitsearch.to:1337/announce
 udp://bt.oiyo.tk:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -92,11 +92,9 @@ http://tracker.files.fm:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
+udp://tracker.trafficmgr.net:6969/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://tracker.trafficmgr.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -104,27 +102,27 @@ udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://tracker.leech.ie:1337/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-https://tracker.iriseden.fr:443/announce
-
-udp://9.rarbg.com:2780/announce
-
 udp://tracker6.lelux.fi:6969/announce
+
+udp://9.rarbg.com:2940/announce
 
 udp://open.stealth.si:80/announce
 
 http://t.nyaatracker.com:80/announce
 
+https://tracker.iriseden.fr:443/announce
+
 udp://p4p.arenabg.com:1337/announce
 
 udp://mts.tvbit.co:6969/announce
 
-udp://bclearning.top:6969/announce
-
 http://tracker.noobsubs.net:80/announce
+
+udp://bclearning.top:6969/announce
 
