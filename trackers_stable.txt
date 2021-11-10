@@ -30,8 +30,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 https://tr.torland.ga:443/announce
 
-udp://tracker.moeking.eu.org:6969/announce
-
 https://tracker.kuroy.me:443/announce
 
 https://trackme.theom.nz:443/announce
@@ -62,6 +60,8 @@ udp://tracker2.dler.com:80/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.moeking.eu.org:6969/announce
+
 udp://bt.oiyo.tk:6969/announce
 
 udp://discord.heihachi.pw:6969/announce
@@ -88,33 +88,31 @@ udp://tracker.ololosh.space:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.trafficmgr.net:6969/announce
-
-udp://tracker.dler.com:6969/announce
-
 http://tracker.files.fm:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.haynet.io:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.theoks.net:6969/announce
+
+udp://tracker.trafficmgr.net:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://vibe.community:6969/announce
+udp://bt2.archive.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
-udp://9.rarbg.com:2940/announce
-
 udp://tracker6.lelux.fi:6969/announce
+
+udp://9.rarbg.com:2840/announce
 
 udp://open.stealth.si:80/announce
 
@@ -124,9 +122,9 @@ udp://mts.tvbit.co:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-https://tracker.iriseden.fr:443/announce
-
 http://tracker.noobsubs.net:80/announce
+
+https://tracker.iriseden.fr:443/announce
 
 udp://inferno.demonoid.is:3391/announce
 
