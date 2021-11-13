@@ -1,8 +1,4 @@
-udp://retracker.hotplug.ru:2710/announce
-
 udp://tracker.birkenwald.de:6969/announce
-
-http://vps02.net.orel.ru:80/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
@@ -30,8 +26,6 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 https://tr.torland.ga:443/announce
 
-https://tracker.kuroy.me:443/announce
-
 udp://tracker.haynet.io:6969/announce
 
 https://trackme.theom.nz:443/announce
@@ -47,4 +41,6 @@ https://tracker.loligirl.cn:443/announce
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.dix.tf:6969/announce
 
