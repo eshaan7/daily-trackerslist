@@ -20,8 +20,6 @@ https://tracker.lilithraws.cf:443/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-https://tr.torland.ga:443/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.haynet.io:6969/announce
@@ -48,19 +46,15 @@ udp://tracker2.dler.com:80/announce
 
 udp://engplus.ru:6969/announce
 
-udp://tracker.blacksparrowmedia.net:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
-
-udp://tracker.moeking.eu.org:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
 udp://discord.heihachi.pw:6969/announce
 
-udp://tracker.leech.ie:1337/announce
+udp://tracker.blacksparrowmedia.net:6969/announce
 
-https://tracker.kuroy.me:443/announce
+udp://tracker.leech.ie:1337/announce
 
 udp://escorts.subventas.com:53/announce
 
@@ -68,17 +62,19 @@ udp://tracker.beeimg.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+https://tracker.kuroy.me:443/announce
+
 udp://tracker.monitorit4.me:6969/announce
 
-udp://tracker0.ufibox.com:6969/announce
-
 udp://ipv6.tracker.monitorit4.me:6969/announce
-
-udp://tracker.dix.tf:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
 udp://bt2.archive.org:6969/announce
+
+https://tracker.nitrix.me:443/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -86,35 +82,41 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.files.fm:6969/announce
 
-https://tracker.nitrix.me:443/announce
+https://tr.torland.ga:443/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://tracker.moeking.eu.org:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://tracker.moeking.me:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
-http://tracker.noobsubs.net:80/announce
+udp://tracker0.ufibox.com:6969/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://tracker.moeking.me:6969/announce
+
+udp://tracker.dix.tf:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://mts.tvbit.co:6969/announce
+udp://tracker6.lelux.fi:6969/announce
 
-https://bittorrent.gongt.net:443/announce
+http://tracker.noobsubs.net:80/announce
 
 udp://open.stealth.si:80/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
+udp://mts.tvbit.co:6969/announce
+
+https://bittorrent.gongt.net:443/announce
+
 http://t.nyaatracker.com:80/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://9.rarbg.com:2870/announce
+udp://9.rarbg.com:2720/announce
+
+http://t.overflow.biz:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
