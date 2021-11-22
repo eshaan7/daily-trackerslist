@@ -2,11 +2,15 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://ipv6.tracker.zerobytes.xyz:16661/announce
 
 http://open.acgnxtracker.com:80/announce
+
+udp://tracker2.dler.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -26,11 +30,11 @@ https://tracker.lilithraws.cf:443/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+http://buny.uk:6969/announce
+
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.haynet.io:6969/announce
-
-udp://tracker.jordan.im:6969/announce
 
 udp://jeremylee.sh:6969/announce
 
@@ -38,7 +42,5 @@ udp://tracker-de.ololosh.space:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.auctor.tv:6969/announce
-
-http://tracker.nucozer-tracker.ml:2710/announce
+https://t1.tokhmi.xyz:443/announce
 
