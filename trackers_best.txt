@@ -40,3 +40,5 @@ udp://tracker.pomf.se:80/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
+udp://bttracker.sylphix.com:6969/announce
+
