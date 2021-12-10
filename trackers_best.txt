@@ -46,5 +46,7 @@ https://tracker.loligirl.cn:443/announce
 
 udp://tracker.pomf.se:80/announce
 
+udp://tracker.dix.tf:6969/announce
+
 https://tr.fuckbitcoin.xyz:443/announce
 
