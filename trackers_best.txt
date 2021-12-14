@@ -6,6 +6,8 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+http://vps02.net.orel.ru:80/announce
+
 https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
