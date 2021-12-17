@@ -24,8 +24,6 @@ udp://fe.dealclub.de:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://movies.zsw.ca:6969/announce
-
 udp://code2chicken.nl:6969/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -53,4 +51,10 @@ udp://tracker.pomf.se:80/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
+
+https://tr.highstar.shop:443/announce
+
+https://tr.doogh.club:443/announce
+
+http://home.yxgz.vip:6969/announce
 
