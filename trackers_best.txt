@@ -34,8 +34,6 @@ http://bt.okmp3.ru:2710/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.ololosh.space:6969/announce
 
 https://tracker.kuroy.me:443/announce
