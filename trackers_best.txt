@@ -1,5 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://open.stealth.si:80/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -51,8 +53,6 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.dix.tf:6969/announce
 
 https://tr.highstar.shop:443/announce
-
-https://tr.doogh.club:443/announce
 
 http://home.yxgz.vip:6969/announce
 
