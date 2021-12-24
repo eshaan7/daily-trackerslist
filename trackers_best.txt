@@ -8,8 +8,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 http://vps02.net.orel.ru:80/announce
 
-http://tracker.bt4g.com:2095/announce
-
 https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
