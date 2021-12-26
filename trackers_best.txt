@@ -52,5 +52,3 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
-http://opentracker.lingyurouqing.xyz:15004/announce
-
