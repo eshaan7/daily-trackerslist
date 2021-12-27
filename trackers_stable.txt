@@ -18,8 +18,6 @@ udp://discord.heihachi.pw:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://mail.realliferpg.de:6969/announce
-
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://code2chicken.nl:6969/announce
@@ -60,6 +58,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
+udp://mail.realliferpg.de:6969/announce
+
 udp://movies.zsw.ca:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
@@ -86,11 +86,13 @@ udp://tracker.jordan.im:6969/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 udp://exodus.desync.com:6969/announce
+
+udp://tracker.beeimg.com:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -102,45 +104,43 @@ https://t1.tokhmi.xyz:443/announce
 
 udp://tracker.sylphix.com:6969/announce
 
-udp://tracker.dler.com:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://www.torrent.eu.org:451/announce
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
-udp://tracker.bitsearch.to:1337/announce
-
 http://home.yxgz.vip:6969/announce
 
-udp://engplus.ru:6969/announce
+udp://tracker.bitsearch.to:1337/announce
 
-http://t.acg.rip:6699/announce
+udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-udp://bt1.archive.org:6969/announce
+http://t.acg.rip:6699/announce
+
+udp://www.torrent.eu.org:451/announce
+
+udp://engplus.ru:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
-udp://9.rarbg.com:2810/announce
+udp://bt1.archive.org:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
+udp://9.rarbg.com:2970/announce
 
 udp://mts.tvbit.co:6969/announce
 
 https://tr.torland.ga:443/announce
 
-http://tracker.mywaifu.best:6969/announce
-
-udp://ipv6.tracker.monitorit4.me:6969/announce
+udp://tracker.monitorit4.me:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 udp://inferno.demonoid.is:3391/announce
+
+udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://tracker.zerobytes.xyz:1337/announce
 

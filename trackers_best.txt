@@ -18,8 +18,6 @@ udp://discord.heihachi.pw:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
-udp://mail.realliferpg.de:6969/announce
-
 udp://tracker.blacksparrowmedia.net:6969/announce
 
 udp://code2chicken.nl:6969/announce
