@@ -50,6 +50,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
+http://reisub.nsupdate.info:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -86,61 +88,57 @@ udp://tracker.jordan.im:6969/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-https://tr.burnabyhighstar.com:443/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+https://tr.burnabyhighstar.com:443/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://t.overflow.biz:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://tracker.theoks.net:6969/announce
-
-https://t1.tokhmi.xyz:443/announce
 
 udp://tracker.sylphix.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://tracker.dler.com:6969/announce
+http://home.yxgz.vip:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
-http://home.yxgz.vip:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
-
-udp://bubu.mapfactor.com:6969/announce
-
-udp://tracker.moeking.me:6969/announce
-
-http://t.acg.rip:6699/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://engplus.ru:6969/announce
+udp://bubu.mapfactor.com:6969/announce
+
+udp://tracker.dler.com:6969/announce
+
+http://t.acg.rip:6699/announce
+
+udp://tracker.moeking.me:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://9.rarbg.com:2970/announce
+udp://engplus.ru:6969/announce
+
+https://t1.tokhmi.xyz:443/announce
+
+udp://9.rarbg.com:2720/announce
 
 udp://mts.tvbit.co:6969/announce
 
 https://tr.torland.ga:443/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://bt.oiyo.tk:6969/announce
 
 udp://inferno.demonoid.is:3391/announce
-
-udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
