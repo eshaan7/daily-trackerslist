@@ -48,5 +48,3 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
-http://reisub.nsupdate.info:6969/announce
-
