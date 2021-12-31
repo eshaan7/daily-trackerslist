@@ -44,7 +44,7 @@ https://tracker.loligirl.cn:443/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://open.xxtor.com:3074/announce
+
+https://tracker.dnlab.net:443/announce
 
