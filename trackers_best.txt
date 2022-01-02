@@ -36,13 +36,9 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 https://tracker.kuroy.me:443/announce
 
-http://fosstorrents.com:6969/announce
-
 https://trackme.theom.nz:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-https://t.btcland.xyz:443/announce
 
 udp://open.xxtor.com:3074/announce
 
