@@ -14,8 +14,6 @@ http://open.acgnxtracker.com:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://discord.heihachi.pw:6969/announce
-
 udp://fe.dealclub.de:6969/announce
 
 udp://tracker.blacksparrowmedia.net:6969/announce
@@ -39,6 +37,4 @@ https://tracker.kuroy.me:443/announce
 https://trackme.theom.nz:443/announce
 
 https://tracker.loligirl.cn:443/announce
-
-udp://open.xxtor.com:3074/announce
 
