@@ -36,5 +36,3 @@ https://tracker.kuroy.me:443/announce
 
 https://trackme.theom.nz:443/announce
 
-https://tracker.loligirl.cn:443/announce
-
