@@ -24,8 +24,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://tracker.0x.tf:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -34,11 +32,13 @@ http://bt.okmp3.ru:2710/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 https://tracker.kuroy.me:443/announce
 
-https://trackme.theom.nz:443/announce
-
 udp://tracker.jordan.im:6969/announce
+
+udp://tracker.sylphix.com:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
@@ -52,7 +52,7 @@ udp://discord.heihachi.pw:6969/announce
 
 udp://mail.realliferpg.de:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
+udp://tracker.0x.tf:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -63,8 +63,6 @@ https://tracker.loligirl.cn:443/announce
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.dix.tf:6969/announce
-
-udp://tracker.sylphix.com:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -100,35 +98,33 @@ http://t.acg.rip:6699/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
-
 udp://engplus.ru:6969/announce
+
+udp://tracker1.bt.moack.co.kr:80/announce
 
 http://t.nyaatracker.com:80/announce
 
-udp://bt1.archive.org:6969/announce
-
 http://t.overflow.biz:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
-udp://tracker.moeking.me:6969/announce
-
-https://tracker.vectahosting.eu:8443/announce
-
-udp://www.torrent.eu.org:451/announce
-
 udp://bt2.archive.org:6969/announce
 
-http://tracker.bt4g.com:2095/announce
+udp://tracker.moeking.me:6969/announce
 
 http://home.yxgz.vip:6969/announce
 
-udp://bt.oiyo.tk:6969/announce
+udp://www.torrent.eu.org:451/announce
 
-udp://tracker.yangxiaoguozi.cn:6969/announce
+http://tracker.bt4g.com:2095/announce
 
-udp://9.rarbg.com:2760/announce
+udp://9.rarbg.com:2940/announce
+
+https://trackme.theom.nz:443/announce
 
 udp://pow7.com:80/announce
+
+udp://tracker.yangxiaoguozi.cn:6969/announce
 

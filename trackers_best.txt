@@ -24,8 +24,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://tracker.0x.tf:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
@@ -34,9 +32,11 @@ http://bt.okmp3.ru:2710/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
+udp://tracker.torrent.eu.org:451/announce
+
 https://tracker.kuroy.me:443/announce
 
-https://trackme.theom.nz:443/announce
-
 udp://tracker.jordan.im:6969/announce
+
+udp://tracker.sylphix.com:6969/announce
 
