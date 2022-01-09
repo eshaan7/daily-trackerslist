@@ -40,3 +40,5 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.sylphix.com:6969/announce
 
+https://tracker.lilithraws.org:443/announce
+
