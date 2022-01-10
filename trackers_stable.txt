@@ -24,8 +24,6 @@ udp://code2chicken.nl:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://tracker.altrosky.nl:6969/announce
-
 https://tracker.lilithraws.cf:443/announce
 
 http://bt.okmp3.ru:2710/announce
@@ -42,6 +40,8 @@ udp://tracker.sylphix.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
+udp://bubu.mapfactor.com:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -55,6 +55,8 @@ udp://discord.heihachi.pw:6969/announce
 udp://mail.realliferpg.de:6969/announce
 
 udp://tracker.0x.tf:6969/announce
+
+udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.ololosh.space:6969/announce
 
@@ -76,21 +78,21 @@ https://tr.highstar.shop:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-udp://tracker.theoks.net:6969/announce
+https://tracker.vectahosting.eu:8443/announce
+
+udp://exodus.desync.com:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-https://t.btcland.xyz:443/announce
+udp://tracker.theoks.net:6969/announce
 
-udp://exodus.desync.com:6969/announce
+https://t.btcland.xyz:443/announce
 
 https://tracker.iriseden.fr:443/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
 https://tr.doogh.club:443/announce
-
-https://tracker.vectahosting.eu:8443/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
@@ -100,9 +102,9 @@ udp://tracker.dler.com:6969/announce
 
 http://t.acg.rip:6699/announce
 
-http://tracker.mywaifu.best:6969/announce
-
 udp://engplus.ru:6969/announce
+
+http://tracker.mywaifu.best:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -112,21 +114,19 @@ http://t.overflow.biz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://bt2.archive.org:6969/announce
+
+udp://pow7.com:80/announce
 
 http://home.yxgz.vip:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://pow7.com:80/announce
+udp://9.rarbg.com:2750/announce
 
-udp://9.rarbg.com:2720/announce
+udp://tracker.skyts.cn:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
-
-http://tracker.bt4g.com:2095/announce
 
