@@ -6,6 +6,8 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 http://vps02.net.orel.ru:80/announce
 
 https://tracker.nanoha.org:443/announce
@@ -34,15 +36,15 @@ https://tracker.kuroy.me:443/announce
 
 udp://tracker.jordan.im:6969/announce
 
+udp://tracker.dix.tf:6969/announce
+
 udp://tracker.sylphix.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
+udp://torrentclub.space:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.birkenwald.de:6969/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
 
@@ -59,8 +61,6 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.ololosh.space:6969/announce
 
 udp://tracker.pomf.se:80/announce
-
-udp://tracker.dix.tf:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
@@ -82,19 +82,21 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://t.btcland.xyz:443/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://tracker.moeking.eu.org:6969/announce
-
 https://tr.doogh.club:443/announce
+
+udp://tracker.theoks.net:6969/announce
 
 https://tracker.iriseden.fr:443/announce
 
-udp://tracker.bitsearch.to:1337/announce
+udp://tracker6.lelux.fi:6969/announce
 
 udp://engplus.ru:6969/announce
+
+udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -108,17 +110,17 @@ http://t.overflow.biz:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://bt2.archive.org:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://pow7.com:80/announce
 
-udp://9.rarbg.com:2970/announce
-
-http://home.yxgz.vip:6969/announce
+udp://9.rarbg.com:2740/announce
 
 udp://udp-tracker.shittyurl.org:6969/announce
+
+http://home.yxgz.vip:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
