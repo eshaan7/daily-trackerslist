@@ -28,8 +28,6 @@ udp://abufinzio.monocul.us:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-http://bt.okmp3.ru:2710/announce
-
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 https://tracker.kuroy.me:443/announce
@@ -40,9 +38,5 @@ udp://tracker.dix.tf:6969/announce
 
 udp://tracker.sylphix.com:6969/announce
 
-https://tracker.vectahosting.eu:8443/announce
-
 https://tracker.lilithraws.org:443/announce
-
-udp://torrentclub.space:6969/announce
 
