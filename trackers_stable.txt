@@ -40,8 +40,6 @@ udp://tracker.sylphix.com:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.beeimg.com:6969/announce
 
 udp://engplus.ru:6969/announce
@@ -62,13 +60,13 @@ https://tr.highstar.shop:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-https://tracker.vectahosting.eu:8443/announce
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://tracker.0x.tf:6969/announce
+http://t.acg.rip:6699/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -80,47 +78,47 @@ udp://tracker.auctor.tv:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
-http://t.acg.rip:6699/announce
+udp://tracker.0x.tf:6969/announce
 
 udp://pow7.com:80/announce
 
-https://t.btcland.xyz:443/announce
-
-https://tr.doogh.club:443/announce
+https://tracker.vectahosting.eu:8443/announce
 
 udp://torrentclub.space:6969/announce
 
+https://t.btcland.xyz:443/announce
+
 udp://tracker.moeking.eu.org:6969/announce
+
+https://tr.doogh.club:443/announce
 
 udp://tracker.theoks.net:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
-
 udp://tracker6.lelux.fi:6969/announce
 
-https://tracker.iriseden.fr:443/announce
+udp://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.mywaifu.best:6969/announce
+
+udp://udp-tracker.shittyurl.org:6969/announce
+
+https://tracker.iriseden.fr:443/announce
 
 http://t.nyaatracker.com:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://udp-tracker.shittyurl.org:6969/announce
-
 udp://bt2.archive.org:6969/announce
-
-udp://bt1.archive.org:6969/announce
 
 https://tr.torland.ga:443/announce
 
+udp://bt1.archive.org:6969/announce
+
 udp://bubu.mapfactor.com:6969/announce
 
+udp://9.rarbg.com:2810/announce
+
 http://home.yxgz.vip:6969/announce
-
-udp://discord.heihachi.pw:6969/announce
-
-udp://9.rarbg.com:2730/announce
 
 https://tracker.nitrix.me:443/announce
 
