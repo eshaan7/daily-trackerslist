@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://open.stealth.si:80/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
@@ -34,9 +32,9 @@ https://tracker.kuroy.me:443/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.dix.tf:6969/announce
+udp://tracker.pomf.se:80/announce
 
-udp://tracker.sylphix.com:6969/announce
+udp://tracker.dix.tf:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
