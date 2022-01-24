@@ -6,6 +6,8 @@ udp://exodus.desync.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+http://t.acg.rip:6699/announce
+
 http://vps02.net.orel.ru:80/announce
 
 https://tracker.nanoha.org:443/announce
@@ -44,7 +46,7 @@ https://tr.fuckbitcoin.xyz:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-udp://pldm.ml:6969/announce
+udp://udp.yarr.pt:1337/announce
 
-http://ftp.pet:7777/announce
+https://tracker.yarr.pt:443/announce
 
