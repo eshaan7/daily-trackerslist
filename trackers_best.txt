@@ -24,7 +24,7 @@ udp://code2chicken.nl:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
-udp://vibe.sleepyinternetfun.xyz:1738/announce
+udp://tracker.lelux.fi:6969/announce
 
 http://buny.uk:6969/announce
 
@@ -41,6 +41,8 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.dix.tf:6969/announce
 
 https://tr.highstar.shop:443/announce
+
+https://t.btcland.xyz:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
