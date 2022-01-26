@@ -4,8 +4,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.birkenwald.de:6969/announce
-
 http://t.acg.rip:6699/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -18,11 +16,7 @@ http://open.acgnxtracker.com:80/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://fe.dealclub.de:6969/announce
-
-udp://code2chicken.nl:6969/announce
-
-udp://abufinzio.monocul.us:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -40,15 +34,7 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
-https://tr.highstar.shop:443/announce
-
-https://t.btcland.xyz:443/announce
-
-https://tr.fuckbitcoin.xyz:443/announce
-
 https://tracker.lilithraws.org:443/announce
-
-udp://udp.yarr.pt:1337/announce
 
 https://tracker.yarr.pt:443/announce
 
