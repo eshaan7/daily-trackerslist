@@ -2,8 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
-udp://exodus.desync.com:6969/announce
-
 http://t.acg.rip:6699/announce
 
 http://vps02.net.orel.ru:80/announce
@@ -18,8 +16,6 @@ udp://tracker2.dler.com:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 http://buny.uk:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -28,8 +24,6 @@ https://tracker.kuroy.me:443/announce
 
 udp://tracker.jordan.im:6969/announce
 
-udp://tracker.pomf.se:80/announce
-
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
@@ -37,6 +31,8 @@ udp://tracker.dix.tf:6969/announce
 https://tracker.lilithraws.org:443/announce
 
 https://tracker.yarr.pt:443/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -70,6 +66,8 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
+udp://tracker.lelux.fi:6969/announce
+
 https://tr.doogh.club:443/announce
 
 udp://tracker.sylphix.com:6969/announce
@@ -78,55 +76,57 @@ udp://tracker.beeimg.com:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
+udp://static.46.73.46.78.clients.your-server.de:8000/announce
+
 udp://engplus.ru:6969/announce
 
 udp://tracker.0x.tf:6969/announce
+
+udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
-udp://pow7.com:80/announce
-
 udp://tracker.dler.com:6969/announce
 
-udp://static.46.73.46.78.clients.your-server.de:8000/announce
+udp://pow7.com:80/announce
+
+http://btracker.top:11451/announce
 
 udp://tracker.theoks.net:6969/announce
-
-https://tracker.vectahosting.eu:8443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
-udp://ipv6.tracker.monitorit4.me:6969/announce
+https://tracker.vectahosting.eu:8443/announce
 
 http://t.nyaatracker.com:80/announce
-
-udp://tracker.monitorit4.me:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
 https://tracker.iriseden.fr:443/announce
 
+udp://tracker.pomf.se:80/announce
+
 http://home.yxgz.vip:6969/announce
 
-https://tr.torland.ga:443/announce
-
 udp://bt2.archive.org:6969/announce
+
+udp://bubu.mapfactor.com:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://tracker6.lelux.fi:6969/announce
-
-udp://9.rarbg.com:2770/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://udp.yarr.pt:1337/announce
+udp://9.rarbg.com:2960/announce
+
+https://tr.torland.ga:443/announce
 
