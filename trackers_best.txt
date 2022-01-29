@@ -18,8 +18,6 @@ udp://tracker2.dler.com:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
-http://buny.uk:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
 https://tracker.kuroy.me:443/announce
