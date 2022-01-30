@@ -6,8 +6,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 http://t.acg.rip:6699/announce
 
-http://vps02.net.orel.ru:80/announce
-
 https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
@@ -17,6 +15,8 @@ http://open.acgnxtracker.com:80/announce
 udp://tracker2.dler.com:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://tracker.moeking.eu.org:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
