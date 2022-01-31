@@ -1,24 +1,6 @@
-udp://tracker.opentrackr.org:1337/announce
-
-http://tracker.ipv6tracker.ru:80/announce
-
-udp://retracker.hotplug.ru:2710/announce
-
-http://t.acg.rip:6699/announce
-
-https://tracker.nanoha.org:443/announce
-
-http://tracker.files.fm:6969/announce
-
-http://open.acgnxtracker.com:80/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://tracker.moeking.eu.org:6969/announce
-
-udp://tracker.bitsearch.to:1337/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -28,9 +10,7 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
-https://tracker.lilithraws.org:443/announce
-
-https://tracker.yarr.pt:443/announce
-
 udp://tracker.srv00.com:6969/announce
+
+http://share.camoe.cn:8080/announce
 
