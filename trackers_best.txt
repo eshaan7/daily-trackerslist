@@ -16,3 +16,5 @@ http://share.camoe.cn:8080/announce
 
 https://tracker.moeblog.cn:443/announce
 
+http://tracker.rp-api.tech:8100/announce
+
