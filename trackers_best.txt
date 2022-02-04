@@ -1,6 +1,10 @@
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://tracker.torrent.eu.org:451/announce
 
 https://tracker.kuroy.me:443/announce
 
@@ -13,6 +17,4 @@ udp://tracker.srv00.com:6969/announce
 http://share.camoe.cn:8080/announce
 
 https://tracker.moeblog.cn:443/announce
-
-http://tracker.rp-api.tech:8100/announce
 
