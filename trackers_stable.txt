@@ -16,8 +16,6 @@ udp://tracker.srv00.com:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-https://tracker.moeblog.cn:443/announce
-
 udp://tracker.opentrackr.org:1337/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -48,6 +46,8 @@ udp://tracker.jordan.im:6969/announce
 
 https://tr.highstar.shop:443/announce
 
+https://tr.doogh.club:443/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 http://tracker.mywaifu.best:6969/announce
@@ -66,11 +66,9 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
-https://tr.doogh.club:443/announce
-
 udp://tracker.sylphix.com:6969/announce
 
-http://bt.okmp3.ru:2710/announce
+udp://tracker.0x.tf:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -80,17 +78,17 @@ https://t.btcland.xyz:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-udp://tracker.0x.tf:6969/announce
+https://o-unkusrx.cloud.okteto.net:443/announce
+
+http://bt.okmp3.ru:2710/announce
 
 udp://tracker.lelux.fi:6969/announce
 
-https://o-unkusrx.cloud.okteto.net:443/announce
+udp://tracker.beeimg.com:6969/announce
 
 https://tracker.yarr.pt:443/announce
 
 udp://tracker.dler.com:6969/announce
-
-udp://tracker.beeimg.com:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -102,19 +100,23 @@ udp://engplus.ru:6969/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
 
+udp://tracker.htp.re:4444/announce
+
 udp://pow7.com:80/announce
 
 udp://tracker.theoks.net:6969/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
 https://tracker.iriseden.fr:443/announce
 
 udp://movies.zsw.ca:6969/announce
 
+https://tracker.moeblog.cn:443/announce
+
+udp://bubu.mapfactor.com:6969/announce
+
 http://home.yxgz.vip:6969/announce
 
-udp://tracker.htp.re:4444/announce
+udp://bt1.archive.org:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
@@ -122,7 +124,9 @@ https://tracker.vectahosting.eu:8443/announce
 
 udp://tracker.loligirl.cn:1337/announce
 
-udp://bt1.archive.org:6969/announce
+http://tracker.bt4g.com:2095/announce
+
+https://tracker.tamersunion.org:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -130,5 +134,7 @@ udp://tracker.yangxiaoguozi.cn:6969/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
-http://tracker.bt4g.com:2095/announce
+udp://tracker.moeking.me:6969/announce
+
+http://ipv4announce.sktorrent.eu:6969/announce
 

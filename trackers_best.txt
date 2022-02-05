@@ -16,5 +16,3 @@ udp://tracker.srv00.com:6969/announce
 
 http://share.camoe.cn:8080/announce
 
-https://tracker.moeblog.cn:443/announce
-
