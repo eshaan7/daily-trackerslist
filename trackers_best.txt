@@ -12,6 +12,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
+udp://torrentclub.space:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 http://share.camoe.cn:8080/announce
