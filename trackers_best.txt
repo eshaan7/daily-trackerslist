@@ -1,5 +1,7 @@
 udp://tracker.cyberia.is:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -11,6 +13,8 @@ https://tracker.kuroy.me:443/announce
 udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 udp://torrentclub.space:6969/announce
 

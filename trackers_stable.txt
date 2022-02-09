@@ -1,5 +1,7 @@
 udp://tracker.cyberia.is:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -12,6 +14,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 udp://torrentclub.space:6969/announce
 
 udp://tracker.srv00.com:6969/announce
@@ -23,8 +27,6 @@ udp://tracker.opentrackr.org:1337/announce
 udp://tracker.birkenwald.de:6969/announce
 
 http://t.acg.rip:6699/announce
-
-http://tracker.bt4g.com:2095/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -48,10 +50,6 @@ udp://tracker.jordan.im:6969/announce
 
 https://tr.highstar.shop:443/announce
 
-https://tr.doogh.club:443/announce
-
-https://tr.burnabyhighstar.com:443/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 https://tracker.lilithraws.org:443/announce
@@ -68,13 +66,15 @@ https://tracker.tamersunion.org:443/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.0x.tf:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
-udp://tracker.sylphix.com:6969/announce
+https://tr.doogh.club:443/announce
 
-udp://tracker.0x.tf:6969/announce
+udp://tracker.sylphix.com:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -86,15 +86,13 @@ https://tr.fuckbitcoin.xyz:443/announce
 
 https://tracker.yarr.pt:443/announce
 
-http://tracker.hiyj.cn:80/announce
-
 http://t.nyaatracker.com:80/announce
+
+udp://tracker.dler.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
 http://fosstorrents.com:6969/announce
-
-udp://tracker.dler.com:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
@@ -108,15 +106,11 @@ udp://tracker.theoks.net:6969/announce
 
 udp://pow7.com:80/announce
 
-https://tracker.vectahosting.eu:8443/announce
-
 udp://movies.zsw.ca:6969/announce
 
 http://home.yxgz.vip:6969/announce
 
 udp://bt1.archive.org:6969/announce
-
-udp://static.46.73.46.78.clients.your-server.de:8000/announce
 
 udp://tracker.loligirl.cn:1337/announce
 
@@ -124,17 +118,17 @@ udp://tracker1.bt.moack.co.kr:80/announce
 
 udp://bt2.archive.org:6969/announce
 
+http://tracker.hiyj.cn:80/announce
+
 http://ipv4announce.sktorrent.eu:6969/announce
+
+udp://static.46.73.46.78.clients.your-server.de:8000/announce
 
 udp://tracker.moeking.me:6969/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
-https://tracker.iriseden.fr:443/announce
-
 udp://tracker.htp.re:4444/announce
 
 udp://udp.yarr.pt:1337/announce
-
-udp://bubu.mapfactor.com:6969/announce
 
