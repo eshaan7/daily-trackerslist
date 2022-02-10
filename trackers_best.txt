@@ -20,5 +20,7 @@ udp://torrentclub.space:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-http://share.camoe.cn:8080/announce
+https://docker-tracker-production.up.railway.app:443/announce
+
+https://tracker.rsplwe.com:443/announce
 
