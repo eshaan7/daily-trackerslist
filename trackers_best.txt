@@ -22,5 +22,5 @@ udp://tracker.srv00.com:6969/announce
 
 https://docker-tracker-production.up.railway.app:443/announce
 
-https://tracker.rsplwe.com:443/announce
+http://tracker.swarm3.network:6969/announce
 
