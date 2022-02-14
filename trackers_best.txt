@@ -1,7 +1,5 @@
 udp://tracker.cyberia.is:6969/announce
 
-http://tracker.bt4g.com:2095/announce
-
 udp://tracker2.dler.com:80/announce
 
 udp://movies.zsw.ca:6969/announce
@@ -9,8 +7,6 @@ udp://movies.zsw.ca:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
-
-https://tracker.kuroy.me:443/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -24,11 +20,5 @@ udp://torrentclub.space:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
-https://opentracker.cc:443/announce
-
 udp://mirror.aptus.co.tz:6969/announce
-
-http://tracker.3304399.com:6969/announce
-
-udp://tracker.lyretain.site:2710/announce
 
