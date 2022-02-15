@@ -6,6 +6,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -19,6 +21,4 @@ https://tr.burnabyhighstar.com:443/announce
 udp://torrentclub.space:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://mirror.aptus.co.tz:6969/announce
 
