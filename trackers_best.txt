@@ -1,10 +1,20 @@
+udp://tracker.dler.com:6969/announce
+
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.birkenwald.de:6969/announce
+
 udp://tracker2.dler.com:80/announce
+
+udp://fe.dealclub.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+udp://code2chicken.nl:6969/announce
+
+udp://abufinzio.monocul.us:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
@@ -17,6 +27,8 @@ udp://tracker.dix.tf:6969/announce
 https://tr.highstar.shop:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
+
+udp://tracker.sylphix.com:6969/announce
 
 udp://torrentclub.space:6969/announce
 
