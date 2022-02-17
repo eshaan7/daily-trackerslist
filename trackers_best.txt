@@ -24,8 +24,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
-https://tr.highstar.shop:443/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 udp://tracker.sylphix.com:6969/announce
