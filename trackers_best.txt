@@ -2,6 +2,8 @@ udp://tracker.dler.com:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://fe.dealclub.de:6969/announce
@@ -29,6 +31,4 @@ udp://tracker.sylphix.com:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://tracker.srv00.com:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
