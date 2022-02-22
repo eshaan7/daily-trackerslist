@@ -50,5 +50,5 @@ https://tracker.babico.name.tr:443/announce
 
 udp://tracker.srv00.com:6969/announce
 
-udp://www.torrent.eu.org:451/announce
+udp://u4.trakx.crim.ist:1337/announce
 
