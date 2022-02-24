@@ -42,9 +42,5 @@ udp://tracker.sylphix.com:6969/announce
 
 udp://torrentclub.space:6969/announce
 
-https://tracker.babico.name.tr:443/announce
-
-udp://tracker.srv00.com:6969/announce
-
 udp://u4.trakx.crim.ist:1337/announce
 
