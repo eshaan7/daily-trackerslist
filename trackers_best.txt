@@ -34,8 +34,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
-https://tr.burnabyhighstar.com:443/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 udp://tracker.sylphix.com:6969/announce
