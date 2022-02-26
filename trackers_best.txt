@@ -26,6 +26,8 @@ https://tracker.lilithraws.cf:443/announce
 
 http://btracker.top:11451/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://buny.uk:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
