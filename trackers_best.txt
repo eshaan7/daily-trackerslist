@@ -12,13 +12,13 @@ https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://tracker.beeimg.com:6969/announce
+
 udp://fe.dealclub.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://abufinzio.monocul.us:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -27,8 +27,6 @@ https://tracker.lilithraws.cf:443/announce
 http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
-
-http://buny.uk:6969/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
@@ -43,4 +41,6 @@ udp://tracker.sylphix.com:6969/announce
 udp://torrentclub.space:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
+
+https://tracker.lilithraws.org:443/announce
 
