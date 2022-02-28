@@ -8,6 +8,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
+http://tracker.bt4g.com:2095/announce
+
 https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
@@ -60,8 +62,6 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-http://buny.uk:6969/announce
-
 udp://tracker.jordan.im:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -76,6 +76,8 @@ udp://tracker.srv00.com:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
+http://buny.uk:6969/announce
+
 udp://tracker.bitsearch.to:1337/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -83,8 +85,6 @@ udp://mirror.aptus.co.tz:6969/announce
 udp://tracker.theoks.net:6969/announce
 
 udp://pow7.com:80/announce
-
-http://tracker.bt4g.com:2095/announce
 
 udp://tracker6.lelux.fi:6969/announce
 
@@ -96,11 +96,13 @@ http://t.nyaatracker.com:80/announce
 
 http://tracker.hiyj.cn:80/announce
 
-udp://ipv6.tracker.harry.lu:80/announce
-
 udp://bt2.archive.org:6969/announce
 
+udp://ipv6.tracker.harry.lu:80/announce
+
 udp://tracker.moeking.me:6969/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -108,13 +110,9 @@ udp://tracker.zerobytes.xyz:1337/announce
 
 http://tracker.swarm3.network:6969/announce
 
-http://home.yxgz.vip:6969/announce
-
 udp://bubu.mapfactor.com:6969/announce
 
+http://home.yxgz.vip:6969/announce
+
 udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.filemail.com:6969/announce
-
-http://fosstorrents.com:6969/announce
 
