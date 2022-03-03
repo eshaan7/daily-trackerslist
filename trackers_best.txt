@@ -34,6 +34,8 @@ http://bt.okmp3.ru:2710/announce
 
 udp://tracker.moeking.eu.org:6969/announce
 
+udp://ipv6.tracker.monitorit4.me:6969/announce
+
 udp://tracker.pomf.se:80/announce
 
 udp://tracker.dix.tf:6969/announce
@@ -47,4 +49,8 @@ udp://u4.trakx.crim.ist:1337/announce
 https://tracker.lilithraws.org:443/announce
 
 udp://run.publictracker.xyz:6969/announce
+
+https://tracker.kuroy.me:443/announce
+
+https://xtremex.herokuapp.com:443/announce
 
