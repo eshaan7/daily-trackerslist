@@ -28,8 +28,6 @@ http://btracker.top:11451/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://tracker.moeking.eu.org:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
@@ -37,8 +35,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://tracker.dix.tf:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
-
-http://tracker.swarm3.network:6969/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
@@ -50,9 +46,13 @@ https://tracker.kuroy.me:443/announce
 
 https://tracker.nitrix.me:443/announce
 
+udp://run-2.publictracker.xyz:6969/announce
+
 udp://abufinzio.monocul.us:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.jordan.im:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
@@ -68,29 +68,29 @@ udp://tracker.monitorit4.me:6969/announce
 
 udp://engplus.ru:6969/announce
 
-udp://tracker.jordan.im:6969/announce
-
 http://tracker.hiyj.cn:80/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
-
-https://tracker.babico.name.tr:443/announce
 
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+http://tracker.swarm3.network:6969/announce
+
+udp://mirror.aptus.co.tz:6969/announce
+
 udp://tracker.srv00.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
-https://tracker.iriseden.fr:443/announce
+udp://tracker.cyberia.is:6969/announce
 
-udp://mirror.aptus.co.tz:6969/announce
+https://chihaya-heroku.120181311.xyz:443/announce
+
+https://tracker.iriseden.fr:443/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -104,19 +104,19 @@ udp://tracker.0x.tf:6969/announce
 
 udp://pow7.com:80/announce
 
+udp://bt2.archive.org:6969/announce
+
 http://t.nyaatracker.com:80/announce
 
 http://t.acg.rip:6699/announce
 
-udp://bt2.archive.org:6969/announce
-
-https://chihaya-heroku.120181311.xyz:443/announce
-
 udp://tracker.moeking.me:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 udp://bubu.mapfactor.com:6969/announce
+
+https://tracker.babico.name.tr:443/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 http://t.overflow.biz:6969/announce
 
