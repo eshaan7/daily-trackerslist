@@ -50,8 +50,6 @@ https://tracker.nitrix.me:443/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
-https://tr.abiir.top:443/announce
-
 udp://tracker.monitorit4.me:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
@@ -62,21 +60,21 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 udp://torrentclub.space:6969/announce
-
-udp://tracker.opentrackr.org:1337/announce
-
-udp://engplus.ru:6969/announce
-
-http://tracker.hiyj.cn:80/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
-udp://tracker.dler.com:6969/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.auctor.tv:6969/announce
+
+http://tracker.hiyj.cn:80/announce
+
+udp://tracker.dler.com:6969/announce
+
+udp://engplus.ru:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
@@ -90,7 +88,7 @@ udp://open.stealth.si:80/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-http://tracker.swarm3.network:6969/announce
+http://home.yxgz.vip:6969/announce
 
 https://tracker.iriseden.fr:443/announce
 
@@ -102,9 +100,9 @@ udp://tracker6.lelux.fi:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
 udp://pow7.com:80/announce
+
+udp://bt1.archive.org:6969/announce
 
 http://t.acg.rip:6699/announce
 
@@ -112,17 +110,21 @@ udp://bt2.archive.org:6969/announce
 
 http://t.nyaatracker.com:80/announce
 
-udp://tracker.moeking.me:6969/announce
+http://tracker.swarm3.network:6969/announce
+
+https://tr.abiir.top:443/announce
 
 udp://bubu.mapfactor.com:6969/announce
+
+udp://tracker.moeking.me:6969/announce
 
 https://tracker.babico.name.tr:443/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
-http://t.overflow.biz:6969/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
-http://home.yxgz.vip:6969/announce
+http://t.overflow.biz:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
