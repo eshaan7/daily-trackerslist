@@ -10,8 +10,6 @@ http://tracker.bt4g.com:2095/announce
 
 https://tracker.nanoha.org:443/announce
 
-http://tracker.files.fm:6969/announce
-
 udp://tracker.beeimg.com:6969/announce
 
 http://open.acgnxtracker.com:80/announce
