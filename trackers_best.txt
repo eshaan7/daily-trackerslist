@@ -46,3 +46,5 @@ https://tracker.nitrix.me:443/announce
 
 udp://run-2.publictracker.xyz:6969/announce
 
+http://t.publictracker.xyz:6969/announce
+
