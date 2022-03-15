@@ -34,8 +34,6 @@ udp://tracker.dix.tf:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-udp://u4.trakx.crim.ist:1337/announce
-
 https://tracker.lilithraws.org:443/announce
 
 udp://run.publictracker.xyz:6969/announce
