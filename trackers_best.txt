@@ -26,11 +26,15 @@ https://tracker.lilithraws.cf:443/announce
 
 http://btracker.top:11451/announce
 
+http://home.yxgz.club:6969/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.dix.tf:6969/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 http://tracker.mywaifu.best:6969/announce
 
