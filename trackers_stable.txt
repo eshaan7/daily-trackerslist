@@ -2,8 +2,6 @@ http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-http://vps02.net.orel.ru:80/announce
-
 http://tracker.bt4g.com:2095/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -48,6 +46,10 @@ udp://run-2.publictracker.xyz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
+http://ibksturm.synology.me:6969/announce
+
+http://vps02.net.orel.ru:80/announce
+
 https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
@@ -62,11 +64,11 @@ https://chihaya-heroku.120181311.xyz:443/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
-http://tracker.hiyj.cn:80/announce
-
 https://tr.abiir.top:443/announce
 
 udp://tracker.dler.com:6969/announce
+
+http://tracker.hiyj.cn:80/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
@@ -84,17 +86,17 @@ udp://tracker.theoks.net:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
+udp://tracker.btsync.gq:233/announce
+
 udp://tracker.filemail.com:6969/announce
 
 udp://open.stealth.si:80/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker.btsync.gq:233/announce
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker6.lelux.fi:6969/announce
-
-udp://tracker.lelux.fi:6969/announce
 
 https://tracker.iriseden.fr:443/announce
 
@@ -116,17 +118,17 @@ http://home.yxgz.vip:6969/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
 https://tracker.babico.name.tr:443/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 http://t.overflow.biz:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
+udp://ipv6.tracker.harry.lu:80/announce
+
 http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
-
-udp://ipv6.tracker.harry.lu:80/announce
 
