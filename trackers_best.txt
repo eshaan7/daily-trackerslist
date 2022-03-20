@@ -46,13 +46,9 @@ http://t.publictracker.xyz:6969/announce
 
 https://tr.torland.ga:443/announce
 
-udp://open.tracker.ink:6969/announce
-
 https://tracker.yarr.pt:443/announce
 
 https://tr.highstar.shop:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
-
-https://tr.doogh.club:443/announce
 
