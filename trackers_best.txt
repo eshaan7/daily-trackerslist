@@ -52,3 +52,5 @@ https://tr.highstar.shop:443/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
+udp://ipv6.babico.name.tr:8000/announce
+
