@@ -20,6 +20,8 @@ udp://tracker.altrosky.nl:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
 udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -28,11 +30,15 @@ udp://tracker.dix.tf:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
 
 udp://ipv6.babico.name.tr:8000/announce
+
+udp://open.dstud.io:6969/announce
+
+http://tracker.kamigami.org:2710/announce
+
+http://tracker.merded.xyz:80/announce
 
