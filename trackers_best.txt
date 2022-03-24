@@ -40,5 +40,5 @@ udp://open.dstud.io:6969/announce
 
 http://tracker.kamigami.org:2710/announce
 
-http://tracker.merded.xyz:80/announce
+udp://xarcotic.com:6969/announce
 
