@@ -34,8 +34,6 @@ udp://tracker.dix.tf:6969/announce
 
 udp://torrentclub.space:6969/announce
 
-https://chihaya-heroku.120181311.xyz:443/announce
-
 udp://run.publictracker.xyz:6969/announce
 
 http://t.publictracker.xyz:6969/announce
@@ -43,6 +41,4 @@ http://t.publictracker.xyz:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://xarcotic.com:6969/announce
 
