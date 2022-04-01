@@ -46,3 +46,5 @@ udp://ipv6.babico.name.tr:8000/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://btracker.top:11451/announce
+
