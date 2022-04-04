@@ -1,10 +1,10 @@
+udp://tracker.opentrackr.org:1337/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
-
-http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
@@ -19,8 +19,6 @@ udp://fe.dealclub.de:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
-
-udp://abufinzio.monocul.us:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
@@ -38,6 +36,8 @@ udp://torrentclub.space:6969/announce
 
 https://tracker.babico.name.tr:443/announce
 
+udp://tracker.loligirl.cn:1337/announce
+
 https://tr.abiir.top:443/announce
 
 http://t.publictracker.xyz:6969/announce
@@ -45,8 +45,6 @@ http://t.publictracker.xyz:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://btracker.top:11451/announce
 
 udp://xxx.xxtor.com:3074/announce
 
