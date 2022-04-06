@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -9,8 +7,6 @@ udp://tracker.moeking.me:6969/announce
 http://tracker.files.fm:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
-
-http://open.acgnxtracker.com:80/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -43,8 +39,6 @@ http://t.publictracker.xyz:6969/announce
 udp://ipv6.babico.name.tr:8000/announce
 
 udp://open.dstud.io:6969/announce
-
-udp://xxx.xxtor.com:3074/announce
 
 udp://open.free-tracker.ga:6969/announce
 

@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -9,8 +7,6 @@ udp://tracker.moeking.me:6969/announce
 http://tracker.files.fm:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
-
-http://open.acgnxtracker.com:80/announce
 
 udp://tracker2.dler.com:80/announce
 
@@ -44,21 +40,25 @@ udp://ipv6.babico.name.tr:8000/announce
 
 udp://open.dstud.io:6969/announce
 
-udp://xxx.xxtor.com:3074/announce
-
 udp://open.free-tracker.ga:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 http://vps02.net.orel.ru:80/announce
+
+http://open.acgnxtracker.com:80/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
 udp://abufinzio.monocul.us:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
+
+udp://tracker.jordan.im:6969/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
@@ -74,8 +74,6 @@ https://tracker.nanoha.org:443/announce
 
 http://t.overflow.biz:6969/announce
 
-udp://tracker.skynetcloud.site:6969/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 udp://open.stealth.si:80/announce
@@ -86,49 +84,49 @@ udp://tracker6.lelux.fi:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
-udp://tracker.lelux.fi:6969/announce
-
-udp://tracker.jordan.im:6969/announce
-
-udp://explodie.org:6969/announce
-
 udp://tracker.zerobytes.xyz:1337/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
-udp://tracker.theoks.net:6969/announce
+udp://explodie.org:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://tracker1.bt.moack.co.kr:80/announce
+udp://xxx.xxtor.com:3074/announce
+
+udp://tracker1.myporn.club:9337/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+http://home.yxgz.vip:6969/announce
 
-udp://tracker.btsync.gq:233/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
 udp://u4.trakx.crim.ist:1337/announce
 
-http://home.yxgz.vip:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 
-http://t.nyaatracker.com:80/announce
+udp://tracker.theoks.net:6969/announce
+
+udp://tracker.btsync.gq:233/announce
 
 http://t.acg.rip:6699/announce
+
+http://t.nyaatracker.com:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
 udp://bt2.archive.org:6969/announce
 
+http://tracker.gbitt.info:80/announce
+
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://bubu.mapfactor.com:6969/announce
-
-udp://ipv6.tracker.harry.lu:80/announce
-
-http://buny.uk:6969/announce
 
