@@ -4,6 +4,8 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
+http://vps02.net.orel.ru:80/announce
+
 http://tracker.files.fm:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -43,4 +45,6 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
+
+udp://open.4ever.tk:6969/announce
 
