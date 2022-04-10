@@ -20,6 +20,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+udp://tracker.0x.tf:6969/announce
+
 udp://tracker.altrosky.nl:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
@@ -47,6 +49,4 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
-
-udp://open.4ever.tk:6969/announce
 
