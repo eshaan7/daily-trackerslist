@@ -20,6 +20,8 @@ udp://movies.zsw.ca:6969/announce
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
 
+udp://tracker.publictracker.xyz:6969/announce
+
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -27,6 +29,8 @@ udp://tracker.altrosky.nl:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://tracker.torrent.eu.org:451/announce
+
+udp://tracker.lelux.fi:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -37,6 +41,8 @@ udp://tracker.dix.tf:6969/announce
 udp://torrentclub.space:6969/announce
 
 https://tracker.babico.name.tr:443/announce
+
+udp://run-2.publictracker.xyz:6969/announce
 
 https://tr.abiir.top:443/announce
 
@@ -49,4 +55,14 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
+
+http://tracker.k.vu:6969/announce
+
+https://tracker.feb217.tk:8443/announce
+
+http://ipv6.govt.hu:6969/announce
+
+http://ipv6.1337.cx:6969/announce
+
+udp://ipv6.69.mu:6969/announce
 
