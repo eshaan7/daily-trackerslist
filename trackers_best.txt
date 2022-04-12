@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.dler.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -30,8 +28,6 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://tracker.lelux.fi:6969/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.auctor.tv:6969/announce
@@ -58,11 +54,11 @@ udp://ns-1.x-fins.com:6969/announce
 
 http://tracker.k.vu:6969/announce
 
-https://tracker.feb217.tk:8443/announce
-
 http://ipv6.govt.hu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 udp://ipv6.69.mu:6969/announce
+
+udp://borat-tracker.cf:6969/announce
 
