@@ -34,8 +34,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
-udp://torrentclub.space:6969/announce
-
 https://tracker.babico.name.tr:443/announce
 
 udp://run-2.publictracker.xyz:6969/announce
@@ -56,9 +54,5 @@ http://tracker.k.vu:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://ipv6.1337.cx:6969/announce
-
 udp://ipv6.69.mu:6969/announce
-
-udp://borat-tracker.cf:6969/announce
 
