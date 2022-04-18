@@ -34,8 +34,6 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
-https://tracker.babico.name.tr:443/announce
-
 udp://run-2.publictracker.xyz:6969/announce
 
 https://tr.abiir.top:443/announce
