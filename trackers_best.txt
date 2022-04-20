@@ -40,11 +40,11 @@ https://tr.abiir.top:443/announce
 
 http://t.publictracker.xyz:6969/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://ns-1.x-fins.com:6969/announce
 
 http://tracker.k.vu:6969/announce
 
 http://ipv6.govt.hu:6969/announce
+
+udp://zecircle.xyz:6969/announce
 
