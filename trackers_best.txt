@@ -4,13 +4,9 @@ udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
-http://vps02.net.orel.ru:80/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
-
-udp://tracker2.dler.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
 
