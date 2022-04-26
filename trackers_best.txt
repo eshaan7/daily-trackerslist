@@ -50,7 +50,5 @@ http://ipv6.govt.hu:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
-http://tracker2.itzmx.com:6961/announce
-
-http://tracker4.itzmx.com:2710/announce
+http://tracker.plop.pm:6969/announce
 
