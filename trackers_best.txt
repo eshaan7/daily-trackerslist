@@ -8,8 +8,6 @@ udp://tracker.moeking.me:6969/announce
 
 http://tracker.files.fm:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://fe.dealclub.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
@@ -49,6 +47,4 @@ udp://ns-1.x-fins.com:6969/announce
 http://ipv6.govt.hu:6969/announce
 
 udp://zecircle.xyz:6969/announce
-
-http://tracker.plop.pm:6969/announce
 
