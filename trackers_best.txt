@@ -38,13 +38,15 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 https://tr.abiir.top:443/announce
 
 http://t.publictracker.xyz:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 http://ipv6.govt.hu:6969/announce
 
 udp://zecircle.xyz:6969/announce
+
+http://tracker2.ctix.cn:6969/announce
 
