@@ -46,5 +46,3 @@ http://ipv6.govt.hu:6969/announce
 
 udp://zecircle.xyz:6969/announce
 
-http://tracker2.ctix.cn:6969/announce
-
