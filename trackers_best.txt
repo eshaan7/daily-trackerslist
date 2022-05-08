@@ -36,6 +36,8 @@ udp://tracker.auctor.tv:6969/announce
 
 udp://tracker.dix.tf:6969/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 http://tracker.mywaifu.best:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
@@ -51,6 +53,4 @@ http://ipv6.1337.cx:6969/announce
 http://i-p-v-6.tk:6969/announce
 
 udp://zecircle.xyz:6969/announce
-
-udp://fgg.pp.ua:6969/announce
 
