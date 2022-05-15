@@ -38,7 +38,5 @@ udp://open.dstud.io:6969/announce
 
 http://uraniumhexafluori.de:1919/announce
 
-http://tracker.coppersurfer.site:2710/announce
-
 http://open-v6.demonoid.ch:6969/announce
 
