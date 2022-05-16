@@ -1,5 +1,3 @@
-udp://tracker.opentrackr.org:1337/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.files.fm:6969/announce
