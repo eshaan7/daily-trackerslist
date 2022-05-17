@@ -38,3 +38,7 @@ http://uraniumhexafluori.de:1919/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
+udp://v2.iperson.xyz:6969/announce
+
+http://alpha.open-tracker.xyz:80/announce
+
