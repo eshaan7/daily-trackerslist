@@ -1,3 +1,5 @@
+udp://tracker.cyberia.is:6969/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.files.fm:6969/announce
@@ -27,8 +29,6 @@ http://tracker.mywaifu.best:6969/announce
 udp://torrentclub.space:6969/announce
 
 https://tr.abiir.top:443/announce
-
-http://t.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
 
