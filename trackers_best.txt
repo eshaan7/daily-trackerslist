@@ -1,8 +1,14 @@
+udp://p4p.arenabg.com:1337/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
+http://tracker.bt4g.com:2095/announce
+
 http://tracker.files.fm:6969/announce
+
+udp://tracker.beeimg.com:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -28,13 +34,15 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://torrentclub.space:6969/announce
 
+udp://run-2.publictracker.xyz:6969/announce
+
 https://tr.abiir.top:443/announce
+
+udp://tracker.dump.cl:6969/announce
 
 udp://open.dstud.io:6969/announce
 
-http://open-v6.demonoid.ch:6969/announce
-
 udp://v2.iperson.xyz:6969/announce
 
-http://alpha.open-tracker.xyz:80/announce
+udp://ns-1.x-fins.com:6969/announce
 
