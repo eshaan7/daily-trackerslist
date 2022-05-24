@@ -1,7 +1,5 @@
 udp://public.publictracker.xyz:6969/announce
 
-udp://tracker.publictracker.xyz:6969/announce
-
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
@@ -12,9 +10,5 @@ https://tr.abiir.top:443/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://ns-1.x-fins.com:6969/announce
-
 https://hcbt.pp.ua:443/announce
-
-https://luna.jae.su:443/announce
 
