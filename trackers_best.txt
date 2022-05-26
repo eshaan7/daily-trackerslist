@@ -1,8 +1,12 @@
+udp://tracker2.dler.com:80/announce
+
 udp://public.publictracker.xyz:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+https://tr.burnabyhighstar.com:443/announce
 
 udp://torrentclub.space:6969/announce
 
