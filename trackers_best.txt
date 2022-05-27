@@ -1,3 +1,5 @@
+https://tracker.nanoha.org:443/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://public.publictracker.xyz:6969/announce
@@ -11,8 +13,6 @@ https://tr.burnabyhighstar.com:443/announce
 udp://torrentclub.space:6969/announce
 
 https://tr.abiir.top:443/announce
-
-udp://tracker.dump.cl:6969/announce
 
 https://hcbt.pp.ua:443/announce
 
