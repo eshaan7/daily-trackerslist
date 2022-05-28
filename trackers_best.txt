@@ -8,6 +8,8 @@ udp://tracker.0x.tf:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.jordan.im:6969/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 udp://torrentclub.space:6969/announce
