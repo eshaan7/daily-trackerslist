@@ -16,11 +16,7 @@ udp://torrentclub.space:6969/announce
 
 https://tr.abiir.top:443/announce
 
-https://hcbt.pp.ua:443/announce
-
 udp://tracker.opentrackr.org:1337/announce
-
-udp://p4p.arenabg.com:1337/announce
 
 http://t.nyaatracker.com:80/announce
 
@@ -62,6 +58,8 @@ udp://run-2.publictracker.xyz:6969/announce
 
 udp://open.dstud.io:6969/announce
 
+udp://p4p.arenabg.com:1337/announce
+
 udp://open.stealth.si:80/announce
 
 udp://tracker.cyberia.is:6969/announce
@@ -72,6 +70,10 @@ http://tracker.noobsubs.net:80/announce
 
 udp://open.xxtor.com:3074/announce
 
+udp://v2.iperson.xyz:6969/announce
+
+udp://exodus.desync.com:6969/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
@@ -80,27 +82,19 @@ https://tracker.babico.name.tr:443/announce
 
 udp://run.publictracker.xyz:6969/announce
 
-udp://v2.iperson.xyz:6969/announce
+udp://tracker4.itzmx.com:2710/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
 http://t.overflow.biz:6969/announce
 
-udp://tracker.zerobytes.xyz:1337/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://tracker.dump.cl:6969/announce
 
-udp://tracker4.itzmx.com:2710/announce
-
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker6.lelux.fi:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker1.bt.moack.co.kr:80/announce
-
-http://uraniumhexafluori.de:1919/announce
 
 udp://ipv4.tracker.harry.lu:80/announce
 
@@ -108,7 +102,11 @@ udp://bt1.archive.org:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
+http://uraniumhexafluori.de:1919/announce
+
 https://tracker.baka.ink:443/announce
+
+udp://960303.xyz:6969/announce
 
 udp://tracker.lelux.fi:6969/announce
 
@@ -116,17 +114,13 @@ udp://tracker.bitsearch.to:1337/announce
 
 https://track.plop.pm:8989/announce
 
-udp://960303.xyz:6969/announce
-
 udp://tracker1.myporn.club:9337/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
-http://t.acg.rip:6699/announce
-
-https://337hhh.xyz:443/announce
-
 udp://zecircle.xyz:6969/announce
+
+http://t.acg.rip:6699/announce
 
 udp://mts.tvbit.co:6969/announce
 
@@ -138,6 +132,8 @@ udp://bubu.mapfactor.com:6969/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
+https://337hhh.xyz:443/announce
+
 http://bt.okmp3.ru:2710/announce
 
 udp://ipv6.babico.name.tr:8000/announce
@@ -146,7 +142,7 @@ udp://www.torrent.eu.org:451/announce
 
 udp://explodie.org:6969/announce
 
-udp://tracker.dler.com:6969/announce
+udp://tracker.zerobytes.xyz:1337/announce
 
 udp://tracker.teambelgium.net:6969/announce
 
@@ -154,5 +150,5 @@ http://vps02.net.orel.ru:80/announce
 
 http://buny.uk:6969/announce
 
-https://ttk.pp.ua:443/announce
+udp://tracker.dler.com:6969/announce
 

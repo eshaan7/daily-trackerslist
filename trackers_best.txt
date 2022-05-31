@@ -16,5 +16,3 @@ udp://torrentclub.space:6969/announce
 
 https://tr.abiir.top:443/announce
 
-https://hcbt.pp.ua:443/announce
-
