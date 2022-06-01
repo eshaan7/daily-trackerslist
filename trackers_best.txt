@@ -2,13 +2,13 @@ https://tracker.nanoha.org:443/announce
 
 udp://tracker2.dler.com:80/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.jordan.im:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
+
+udp://tracker.dix.tf:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
