@@ -16,3 +16,17 @@ udp://torrentclub.space:6969/announce
 
 https://tr.abiir.top:443/announce
 
+http://337hhh.tpddns.cn:6969/announce
+
+http://tracker3.ctix.cn:2095/announce
+
+http://tracker2.520.jp:2095/announce
+
+http://tracker2.ctix.cn:2095/announce
+
+http://tracker.edkj.club:6969/announce
+
+https://tracker1.520.jp:443/announce
+
+http://tracker3.520.jp:2095/announce
+
