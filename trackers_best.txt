@@ -1,14 +1,18 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.moeking.me:6969/announce
+udp://p4p.arenabg.com:1337/announce
 
-http://tracker.bt4g.com:2095/announce
+http://tracker.ipv6tracker.ru:80/announce
+
+udp://tracker.moeking.me:6969/announce
 
 https://tracker.nanoha.org:443/announce
 
 udp://tracker2.dler.com:80/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.auctor.tv:6969/announce
 
@@ -17,6 +21,8 @@ udp://tracker.dix.tf:6969/announce
 https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abiir.top:443/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 https://tracker.baka.ink:443/announce
 
