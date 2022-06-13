@@ -22,15 +22,13 @@ https://tr.abiir.top:443/announce
 
 udp://open.free-tracker.ga:6969/announce
 
-https://tracker.dmhy.pw:443/announce
-
-https://tracker1.loli.co.nz:443/announce
-
 http://tracker.logirl.moe:17052/announce
-
-udp://www.torrent.eu.org:451/announce
 
 http://tracker3.itzmx.com:6961/announce
 
 http://tracker4.itzmx.com:2710/announce
+
+http://open.nyap2p.com:8080/announce
+
+http://tracker.iro.moe:80/announce
 
