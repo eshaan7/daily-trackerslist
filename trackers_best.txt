@@ -6,8 +6,6 @@ udp://tracker.birkenwald.de:6969/announce
 
 http://t.acg.rip:6699/announce
 
-udp://tracker.moeking.me:6969/announce
-
 http://tracker.files.fm:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -19,8 +17,6 @@ udp://tracker2.dler.com:80/announce
 udp://fe.dealclub.de:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.altrosky.nl:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
@@ -41,6 +37,8 @@ udp://open.dstud.io:6969/announce
 udp://open.free-tracker.ga:6969/announce
 
 udp://zecircle.xyz:6969/announce
+
+https://tracker.baka.ink:443/announce
 
 http://tracker3.itzmx.com:6961/announce
 
