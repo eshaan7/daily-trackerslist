@@ -18,6 +18,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
 
+udp://tracker.0x.tf:6969/announce
+
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 http://fxtt.ru:80/announce
