@@ -36,6 +36,8 @@ http://tracker.mywaifu.best:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
+udp://run.publictracker.xyz:6969/announce
+
 udp://open.dstud.io:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
