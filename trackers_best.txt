@@ -1,5 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 
+http://t.nyaatracker.com:80/announce
+
 udp://tracker.cyberia.is:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
@@ -17,8 +19,6 @@ udp://fe.dealclub.de:6969/announce
 udp://movies.zsw.ca:6969/announce
 
 udp://tracker.publictracker.xyz:6969/announce
-
-udp://tracker.openbittorrent.com:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
