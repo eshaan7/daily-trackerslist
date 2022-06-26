@@ -40,3 +40,5 @@ udp://zecircle.xyz:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
 
+udp://tracker.encrypted-data.xyz:1337/announce
+
