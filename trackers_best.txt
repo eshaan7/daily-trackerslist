@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-http://t.nyaatracker.com:80/announce
-
 udp://tracker.cyberia.is:6969/announce
 
 udp://exodus.desync.com:6969/announce
@@ -42,19 +40,7 @@ http://tracker4.itzmx.com:2710/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
 
-http://widemus.de:6969/announce
-
 http://incine.ru:6969/announce
-
-http://mail.lakameraobscura.com:6969/announce
-
-http://download01.championsofregnum.com:6969/announce
-
-http://debuz.com:6969/announce
-
-http://147job.com:6969/announce
-
-udp://kokodayo.site:6969/announce
 
 udp://thouvenin.cloud:6969/announce
 
@@ -74,10 +60,6 @@ udp://aarsen.me:6969/announce
 
 udp://epider.me:6969/announce
 
-http://unit193.net:6969/announce
-
-udp://admin.52ywp.com:6969/announce
-
 udp://puresynergy.com:6969/announce
 
 udp://thinking.duckdns.org:6969/announce
@@ -88,13 +70,9 @@ udp://cutscloud.duckdns.org:6969/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
 
-udp://commento.getblog.cn:6969/announce
-
 udp://boysbitte.be:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
-
-udp://theodoric.fr:6969/announce
 
 udp://evert.net:6969/announce
 
@@ -108,9 +86,51 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://sanincode.com:6969/announce
-
 udp://htz3.noho.st:6969/announce
 
-udp://dylan-park.com:6969/announce
+udp://qtstm32fan.ru:6969/announce
+
+udp://aez-srv.srv00.com:6969/announce
+
+udp://moonburrow.club:6969/announce
+
+udp://mserver.link:6969/announce
+
+udp://srv5.digiboy.ir:6969/announce
+
+udp://letsdecentralize.org:6969/announce
+
+udp://linfan.moe:6969/announce
+
+udp://uploads.gamecoast.net:6969/announce
+
+udp://smtp.flawcra.cc:6969/announce
+
+udp://itera.bz:6969/announce
+
+http://drteam.rocks:6969/announce
+
+udp://keke.re:6969/announce
+
+http://t1.chfs.ch:6969/announce
+
+http://appmeter.ru:6969/announce
+
+udp://tronml.cf:6969/announce
+
+udp://2simple.naiive.xyz:6969/announce
+
+udp://lloria.fr:6969/announce
+
+udp://rep-art.ynh.fr:6969/announce
+
+udp://k1.com.br:6969/announce
+
+udp://mail.zasaonsk.ga:6969/announce
+
+udp://smtp-relay.odysseylabel.com.au:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
+
+udp://mail.artixlinux.org:6969/announce
 
