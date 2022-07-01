@@ -16,6 +16,8 @@ udp://fe.dealclub.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
+udp://tracker.leech.ie:1337/announce
+
 udp://tracker.publictracker.xyz:6969/announce
 
 http://fxtt.ru:80/announce
@@ -23,6 +25,8 @@ http://fxtt.ru:80/announce
 udp://tracker.pomf.se:80/announce
 
 udp://open.xxtor.com:3074/announce
+
+udp://torrentclub.space:6969/announce
 
 udp://run.publictracker.xyz:6969/announce
 
