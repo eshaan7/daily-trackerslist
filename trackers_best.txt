@@ -2,6 +2,8 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+http://tracker.ipv6tracker.ru:80/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -28,6 +30,8 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://open.xxtor.com:3074/announce
 
 udp://torrentclub.space:6969/announce
@@ -49,8 +53,6 @@ udp://zecircle.xyz:6969/announce
 http://open-v6.demonoid.ch:6969/announce
 
 http://tracker.aeerso.space:6969/announce
-
-http://tracker4.itzmx.com:2710/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
 
@@ -94,8 +96,6 @@ udp://mserver.link:6969/announce
 
 udp://srv5.digiboy.ir:6969/announce
 
-udp://letsdecentralize.org:6969/announce
-
 udp://uploads.gamecoast.net:6969/announce
 
 udp://itera.bz:6969/announce
@@ -123,4 +123,6 @@ https://tracker.imgoingto.icu:443/announce
 udp://h3o2.me:1337/announce
 
 udp://bt.oiyo.tk:6969/announce
+
+udp://isk.richardsw.club:6969/announce
 
