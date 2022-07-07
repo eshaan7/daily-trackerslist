@@ -12,6 +12,8 @@ http://t.acg.rip:6699/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://tracker.monitorit4.me:6969/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
@@ -74,8 +76,6 @@ udp://aarsen.me:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://puresynergy.com:6969/announce
-
 udp://davidkirkevans.com:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
@@ -87,8 +87,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://new-line.net:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-udp://qtstm32fan.ru:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -125,4 +123,6 @@ udp://h3o2.me:1337/announce
 udp://bt.oiyo.tk:6969/announce
 
 udp://isk.richardsw.club:6969/announce
+
+udp://free.open.tracker.4.starka.st:15480/announce
 

@@ -12,6 +12,8 @@ http://t.acg.rip:6699/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://tracker.monitorit4.me:6969/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
@@ -74,8 +76,6 @@ udp://aarsen.me:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://puresynergy.com:6969/announce
-
 udp://davidkirkevans.com:6969/announce
 
 udp://cutscloud.duckdns.org:6969/announce
@@ -87,8 +87,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://new-line.net:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-udp://qtstm32fan.ru:6969/announce
 
 udp://moonburrow.club:6969/announce
 
@@ -126,9 +124,9 @@ udp://bt.oiyo.tk:6969/announce
 
 udp://isk.richardsw.club:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
+udp://free.open.tracker.4.starka.st:15480/announce
 
-udp://tracker.monitorit4.me:6969/announce
+udp://tracker.beeimg.com:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
@@ -146,6 +144,8 @@ udp://open.stealth.si:80/announce
 
 http://t.nyaatracker.com:80/announce
 
+https://tracker.nanoha.org:443/announce
+
 udp://tracker6.lelux.fi:6969/announce
 
 udp://tracker.0x.tf:6969/announce
@@ -154,17 +154,19 @@ udp://open.publictracker.xyz:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
+udp://puresynergy.com:6969/announce
+
 udp://astrr.ru:6969/announce
+
+udp://qtstm32fan.ru:6969/announce
 
 udp://letsdecentralize.org:6969/announce
 
 udp://smtp.flawcra.cc:6969/announce
 
-udp://tracker.dler.com:6969/announce
+udp://smtp-relay.odysseylabel.com.au:6969/announce
 
 udp://retracker.hotplug.ru:2710/announce
-
-https://tracker.nanoha.org:443/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
@@ -172,13 +174,7 @@ udp://tracker.openbittorrent.com:6969/announce
 
 https://tr.abiir.top:443/announce
 
-udp://v2.iperson.xyz:6969/announce
-
-udp://smtp-relay.odysseylabel.com.au:6969/announce
-
 http://open.nyap2p.com:8080/announce
-
-udp://torrents.artixlinux.org:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -186,23 +182,27 @@ http://t.overflow.biz:6969/announce
 
 https://tracker.lilithraws.cf:443/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
+udp://v2.iperson.xyz:6969/announce
+
+udp://tracker.dler.com:6969/announce
+
 http://vps02.net.orel.ru:80/announce
-
-udp://tracker1.bt.moack.co.kr:80/announce
-
-udp://tracker.4.babico.name.tr:3131/announce
-
-udp://explodie.org:6969/announce
 
 udp://tracker.6.babico.name.tr:6969/announce
 
+udp://tracker.4.babico.name.tr:3131/announce
+
 udp://k1.com.br:6969/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
+udp://explodie.org:6969/announce
+
+udp://torrents.artixlinux.org:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
@@ -210,9 +210,19 @@ udp://black-bird.ynh.fr:6969/announce
 
 udp://sanincode.com:6969/announce
 
-udp://dylan-park.com:6969/announce
+udp://p4p.arenabg.com:1337/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
+
+https://tracker.dmhy.pw:443/announce
+
+https://tracker1.loli.co.nz:443/announce
 
 udp://laze.cc:6969/announce
+
+udp://tracker.lelux.fi:6969/announce
+
+udp://chennuo.xyz:6969/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
@@ -220,39 +230,27 @@ udp://bt1.archive.org:6969/announce
 
 udp://960303.xyz:6969/announce
 
-https://tracker.dmhy.pw:443/announce
-
-udp://p4p.arenabg.com:1337/announce
-
 http://tracker.bt4g.com:2095/announce
-
-udp://chennuo.xyz:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 http://widemus.de:6969/announce
 
-https://tracker1.loli.co.nz:443/announce
-
-udp://mirror.aptus.co.tz:6969/announce
-
-udp://aez-srv.srv00.com:6969/announce
-
-http://bt.okmp3.ru:2710/announce
-
-udp://www.torrent.eu.org:451/announce
-
-udp://ransan.tk:6969/announce
+udp://bt2.archive.org:6969/announce
 
 http://tracker.noobsubs.net:80/announce
 
-udp://tracker.lelux.fi:6969/announce
+udp://aez-srv.srv00.com:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
+udp://www.torrent.eu.org:451/announce
+
+http://bt.okmp3.ru:2710/announce
+
+udp://ransan.tk:6969/announce
+
+udp://mirror.aptus.co.tz:6969/announce
+
+udp://dylan-park.com:6969/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
-
-udp://tracker.theoks.net:6969/announce
 
 udp://mts.tvbit.co:6969/announce
 
