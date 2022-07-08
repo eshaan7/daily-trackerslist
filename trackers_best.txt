@@ -56,8 +56,6 @@ http://open-v6.demonoid.ch:6969/announce
 
 http://tracker.aeerso.space:6969/announce
 
-udp://tracker.encrypted-data.xyz:1337/announce
-
 http://incine.ru:6969/announce
 
 udp://thouvenin.cloud:6969/announce
@@ -92,8 +90,6 @@ udp://moonburrow.club:6969/announce
 
 udp://mserver.link:6969/announce
 
-udp://srv5.digiboy.ir:6969/announce
-
 udp://uploads.gamecoast.net:6969/announce
 
 udp://itera.bz:6969/announce
@@ -120,9 +116,11 @@ https://tracker.imgoingto.icu:443/announce
 
 udp://h3o2.me:1337/announce
 
-udp://bt.oiyo.tk:6969/announce
-
 udp://isk.richardsw.club:6969/announce
 
-udp://free.open.tracker.4.starka.st:15480/announce
+http://tracker.edkj.club:6969/announce
+
+udp://www.2600.com:6969/announce
+
+udp://thug.rocks:6969/announce
 
