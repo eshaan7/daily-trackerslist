@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://tracker.cyberia.is:6969/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
@@ -84,8 +82,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://htz3.noho.st:6969/announce
-
 udp://moonburrow.club:6969/announce
 
 udp://mserver.link:6969/announce
@@ -117,8 +113,6 @@ https://tracker.imgoingto.icu:443/announce
 udp://h3o2.me:1337/announce
 
 udp://isk.richardsw.club:6969/announce
-
-http://tracker.edkj.club:6969/announce
 
 udp://www.2600.com:6969/announce
 
