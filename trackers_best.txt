@@ -114,5 +114,5 @@ udp://isk.richardsw.club:6969/announce
 
 udp://www.2600.com:6969/announce
 
-udp://thug.rocks:6969/announce
+http://thebytestore.co.uk:6969/announce
 
