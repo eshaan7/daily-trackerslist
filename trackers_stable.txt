@@ -50,6 +50,8 @@ http://ipv6.govt.hu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
+udp://ipv6.69.mu:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 udp://zecircle.xyz:6969/announce
@@ -112,11 +114,13 @@ udp://www.2600.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
+http://dfireworks.eu.org:6969/announce
+
+https://tracker.expli.top:443/announce
+
 udp://open.stealth.si:80/announce
 
 udp://tracker.cyberia.is:6969/announce
-
-udp://exodus.desync.com:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
@@ -130,8 +134,6 @@ udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://open.publictracker.xyz:6969/announce
 
-udp://ipv6.69.mu:6969/announce
-
 udp://960303.xyz:6969/announce
 
 udp://new-line.net:6969/announce
@@ -144,7 +146,7 @@ udp://smtp.flawcra.cc:6969/announce
 
 udp://smtp-relay.odysseylabel.com.au:6969/announce
 
-http://t.nyaatracker.com:80/announce
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -152,29 +154,29 @@ https://tracker.nanoha.org:443/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
 udp://tracker.lelux.fi:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
+udp://chennuo.xyz:6969/announce
+
 udp://tracker.6.babico.name.tr:6969/announce
 
 http://open.nyap2p.com:8080/announce
-
-udp://retracker.hotplug.ru:2710/announce
-
-https://tr.abiir.top:443/announce
-
-udp://chennuo.xyz:6969/announce
 
 udp://astrr.ru:6969/announce
 
 udp://tracker.4.babico.name.tr:3131/announce
 
-udp://torrents.artixlinux.org:6969/announce
+http://t.nyaatracker.com:80/announce
+
+udp://retracker.hotplug.ru:2710/announce
+
+udp://tracker.torrent.eu.org:451/announce
+
+https://tr.abiir.top:443/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
@@ -186,7 +188,7 @@ udp://laze.cc:6969/announce
 
 udp://sanincode.com:6969/announce
 
-udp://tracker.dler.com:6969/announce
+udp://torrents.artixlinux.org:6969/announce
 
 http://t.overflow.biz:6969/announce
 
@@ -194,49 +196,51 @@ https://tracker.lilithraws.cf:443/announce
 
 udp://explodie.org:6969/announce
 
+udp://tracker.dler.com:6969/announce
+
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://thug.rocks:6969/announce
+udp://p4p.arenabg.com:1337/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
 http://tracker.bt4g.com:2095/announce
 
-udp://tracker.0x.tf:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://p4p.arenabg.com:1337/announce
-
 http://widemus.de:6969/announce
-
-udp://bt2.archive.org:6969/announce
 
 udp://k1.com.br:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://qtstm32fan.ru:6969/announce
+
+udp://thug.rocks:6969/announce
+
+udp://bt2.archive.org:6969/announce
+
+https://track.plop.pm:8989/announce
 
 udp://free.open.tracker.4.starka.st:15480/announce
 
+udp://tracker.0x.tf:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
-udp://mirror.aptus.co.tz:6969/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 
-https://track.plop.pm:8989/announce
+udp://mirror.aptus.co.tz:6969/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
 udp://www.torrent.eu.org:451/announce
 
-http://ipv4announce.sktorrent.eu:6969/announce
+udp://tracker.srv00.com:6969/announce
+
+udp://shizzle.hammetjus.nl:6969/announce
 
 http://tracker.noobsubs.net:80/announce
-
-https://tracker.imgoingto.icu:443/announce
-
-udp://tracker.teambelgium.net:6969/announce
 

@@ -50,6 +50,8 @@ http://ipv6.govt.hu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
+udp://ipv6.69.mu:6969/announce
+
 http://i-p-v-6.tk:6969/announce
 
 udp://zecircle.xyz:6969/announce
@@ -111,4 +113,8 @@ udp://isk.richardsw.club:6969/announce
 udp://www.2600.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
+
+http://dfireworks.eu.org:6969/announce
+
+https://tracker.expli.top:443/announce
 
