@@ -6,11 +6,13 @@ udp://tracker.birkenwald.de:6969/announce
 
 http://t.acg.rip:6699/announce
 
+https://tracker.nanoha.org:443/announce
+
 http://tracker.files.fm:6969/announce
 
-udp://tracker.monitorit4.me:6969/announce
+udp://tracker.beeimg.com:6969/announce
 
-udp://tracker2.dler.com:80/announce
+udp://tracker.monitorit4.me:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -41,6 +43,8 @@ udp://torrentclub.space:6969/announce
 udp://run.publictracker.xyz:6969/announce
 
 udp://run-2.publictracker.xyz:6969/announce
+
+https://tr.abiir.top:443/announce
 
 http://t.publictracker.xyz:6969/announce
 
@@ -90,8 +94,6 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://itera.bz:6969/announce
 
-udp://keke.re:6969/announce
-
 udp://lloria.fr:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -100,21 +102,13 @@ udp://mail.zasaonsk.ga:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://mail.artixlinux.org:6969/announce
-
 udp://tracker.artixlinux.org:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://h3o2.me:1337/announce
-
-udp://isk.richardsw.club:6969/announce
 
 udp://www.2600.com:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
-http://dfireworks.eu.org:6969/announce
-
-https://tracker.expli.top:443/announce
+http://fireworks.eu.org:6969/announce
 
