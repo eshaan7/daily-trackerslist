@@ -32,8 +32,6 @@ udp://tracker.jordan.im:6969/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 udp://open.xxtor.com:3074/announce
@@ -102,8 +100,6 @@ udp://mail.zasaonsk.ga:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
-udp://tracker.artixlinux.org:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://www.2600.com:6969/announce
@@ -111,4 +107,10 @@ udp://www.2600.com:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 http://fireworks.eu.org:6969/announce
+
+udp://chouchou.top:8080/announce
+
+https://tracker.moeblog.cn:443/announce
+
+http://tracker2.itzmx.com:6961/announce
 
