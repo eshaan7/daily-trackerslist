@@ -1,12 +1,12 @@
 udp://tracker.opentrackr.org:1337/announce
 
+udp://explodie.org:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
 http://t.acg.rip:6699/announce
-
-http://tracker.bt4g.com:2095/announce
 
 https://tracker.nanoha.org:443/announce
 
@@ -108,9 +108,7 @@ udp://chouchou.top:8080/announce
 
 https://tracker.moeblog.cn:443/announce
 
-http://tracker2.itzmx.com:6961/announce
+udp://adt.adt-textile.ru:6969/announce
 
-http://tracker4.itzmx.com:2710/announce
-
-http://tracker3.ctix.cn:8080/announce
+udp://6.beyondth.cn:6969/announce
 
