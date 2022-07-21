@@ -1,5 +1,3 @@
-udp://tracker.opentrackr.org:1337/announce
-
 udp://p4p.arenabg.com:1337/announce
 
 udp://explodie.org:6969/announce
@@ -58,8 +56,6 @@ http://tracker.aeerso.space:6969/announce
 
 http://incine.ru:6969/announce
 
-udp://thouvenin.cloud:6969/announce
-
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://transkaroo.joustasie.net:6969/announce
@@ -80,8 +76,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
-udp://itera.bz:6969/announce
-
 udp://lloria.fr:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -97,8 +91,6 @@ udp://www.2600.com:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://chouchou.top:8080/announce
-
-udp://8.beyondth.cn:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
