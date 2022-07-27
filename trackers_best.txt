@@ -16,8 +16,6 @@ udp://tracker.moeking.me:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
-https://tracker.nanoha.org:443/announce
-
 udp://tracker6.lelux.fi:6969/announce
 
 udp://tracker.beeimg.com:6969/announce
@@ -26,13 +24,13 @@ udp://opentracker.i2p.rocks:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
+udp://movies.zsw.ca:6969/announce
+
 udp://tracker.leech.ie:1337/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-
-http://fxtt.ru:80/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -97,4 +95,6 @@ udp://www.2600.com:6969/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://chouchou.top:8080/announce
+
+http://tracker2.itzmx.com:6961/announce
 
