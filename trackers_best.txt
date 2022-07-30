@@ -4,6 +4,8 @@ udp://explodie.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://tracker.cyberia.is:6969/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -13,6 +15,8 @@ udp://tracker.moeking.me:6969/announce
 udp://tracker.beeimg.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
+
+http://open.acgnxtracker.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -62,6 +66,8 @@ udp://davidkirkevans.com:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://htz3.noho.st:6969/announce
+
 udp://uploads.gamecoast.net:6969/announce
 
 udp://lloria.fr:6969/announce
@@ -81,4 +87,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://chouchou.top:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
+
+http://tracker.sakurato.art:23333/announce
 
