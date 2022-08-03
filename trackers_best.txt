@@ -4,10 +4,6 @@ udp://explodie.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://tracker.cyberia.is:6969/announce
-
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -45,8 +41,6 @@ http://tracker.k.vu:6969/announce
 http://ipv6.govt.hu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
-
-udp://zecircle.xyz:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
@@ -86,7 +80,7 @@ udp://chouchou.top:8080/announce
 
 http://tracker2.itzmx.com:6961/announce
 
-http://tracker.sakurato.art:23333/announce
+udp://soysta-fr1.dev.sercomkc.org:6969/announce
 
-udp://net.richardsw.club:6969/announce
+udp://tracker.bittor.pw:1337/announce
 
