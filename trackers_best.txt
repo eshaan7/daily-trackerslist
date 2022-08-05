@@ -4,8 +4,6 @@ udp://explodie.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -83,6 +81,4 @@ udp://chouchou.top:8080/announce
 http://tracker2.itzmx.com:6961/announce
 
 udp://soysta-fr1.dev.sercomkc.org:6969/announce
-
-udp://tracker.bittor.pw:1337/announce
 
