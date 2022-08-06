@@ -4,6 +4,8 @@ udp://explodie.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce

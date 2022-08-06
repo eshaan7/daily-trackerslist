@@ -4,6 +4,8 @@ udp://explodie.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -86,8 +88,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://tracker.cyberia.is:6969/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://exodus.desync.com:6969/announce
@@ -97,6 +97,8 @@ http://vps02.net.orel.ru:80/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://tracker.pomf.se:80/announce
+
+udp://tracker.auctor.tv:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -116,8 +118,6 @@ udp://davidkirkevans.com:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://smtp-relay.odysseylabel.com.au:6969/announce
-
 udp://tamas3.ynh.fr:6969/announce
 
 http://tracker4.itzmx.com:2710/announce
@@ -125,8 +125,6 @@ http://tracker4.itzmx.com:2710/announce
 https://tracker.nanoha.org:443/announce
 
 udp://tracker.jordan.im:6969/announce
-
-udp://tracker.auctor.tv:6969/announce
 
 udp://ipv6.69.mu:6969/announce
 
@@ -142,21 +140,21 @@ http://fxtt.ru:80/announce
 
 udp://smtp.flawcra.cc:6969/announce
 
+udp://smtp-relay.odysseylabel.com.au:6969/announce
+
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://ipv6.tracker.harry.lu:80/announce
 
 http://tracker.files.fm:6969/announce
 
-udp://tracker6.lelux.fi:6969/announce
-
 udp://960303.xyz:6969/announce
 
-udp://keke.re:6969/announce
+udp://u6.trakx.crim.ist:1337/announce
 
 http://tracker3.ctix.cn:8080/announce
 
-udp://u6.trakx.crim.ist:1337/announce
+udp://tracker6.lelux.fi:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -166,27 +164,27 @@ http://t.nyaatracker.com:80/announce
 
 udp://retracker.hotplug.ru:2710/announce
 
-udp://qtstm32fan.ru:6969/announce
-
 udp://bt1.archive.org:6969/announce
 
-udp://tracker2.dler.com:80/announce
+udp://bubu.mapfactor.com:6969/announce
 
-http://torrenttracker.nwc.acsalaska.net:6969/announce
+udp://keke.re:6969/announce
+
+udp://tracker2.dler.com:80/announce
 
 http://bt.okmp3.ru:2710/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://bubu.mapfactor.com:6969/announce
-
 udp://v2.iperson.xyz:6969/announce
 
-udp://itera.bz:6969/announce
+udp://qtstm32fan.ru:6969/announce
+
+udp://creative.7o7.cx:6969/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://creative.7o7.cx:6969/announce
+http://torrenttracker.nwc.acsalaska.net:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
@@ -218,29 +216,27 @@ http://widemus.de:6969/announce
 
 udp://theodoric.fr:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.noobsubs.net:80/announce
 
 https://chihaya-heroku.120181311.xyz:443/announce
 
-udp://k1.com.br:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
-
 udp://www.torrent.eu.org:451/announce
-
-udp://tracker.bittor.pw:1337/announce
-
-udp://astrr.ru:6969/announce
 
 udp://black-bird.ynh.fr:6969/announce
 
-udp://tracker1.myporn.club:9337/announce
+udp://k1.com.br:6969/announce
+
+udp://astrr.ru:6969/announce
+
+udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.openbittorrent.com:6969/announce
 
-udp://yahor.ftp.sh:6969/announce
+udp://tracker1.myporn.club:9337/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
 
-udp://chennuo.xyz:6969/announce
+udp://yahor.ftp.sh:6969/announce
 
