@@ -6,6 +6,8 @@ http://tracker1.itzmx.com:8080/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://retracker.hotplug.ru:2710/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 udp://tracker.moeking.me:6969/announce
