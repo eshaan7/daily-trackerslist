@@ -4,8 +4,6 @@ udp://explodie.org:6969/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://retracker.hotplug.ru:2710/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -14,11 +12,15 @@ udp://tracker.moeking.me:6969/announce
 
 http://tracker.bt4g.com:2095/announce
 
+http://tracker.files.fm:6969/announce
+
 udp://tracker.beeimg.com:6969/announce
 
 udp://opentracker.i2p.rocks:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+udp://tracker2.dler.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -28,11 +30,11 @@ udp://tracker.leech.ie:1337/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
-udp://vibe.sleepyinternetfun.xyz:1738/announce
-
 udp://tracker.bitsearch.to:1337/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
+
+udp://torrentclub.space:6969/announce
 
 https://tracker.loligirl.cn:443/announce
 
@@ -61,6 +63,8 @@ udp://epider.me:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
+
+udp://mserver.link:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
