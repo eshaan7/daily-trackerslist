@@ -32,19 +32,23 @@ udp://movies.zsw.ca:6969/announce
 
 udp://tracker.leech.ie:1337/announce
 
+udp://public.publictracker.xyz:6969/announce
+
 udp://tracker.altrosky.nl:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
+https://tr.burnabyhighstar.com:443/announce
+
 udp://open.xxtor.com:3074/announce
 
 udp://torrentclub.space:6969/announce
 
-https://tracker.loligirl.cn:443/announce
-
 udp://open.dstud.io:6969/announce
+
+udp://open.free-tracker.ga:6969/announce
 
 http://tracker.k.vu:6969/announce
 
@@ -91,4 +95,6 @@ udp://bt.ktrackers.com:6666/announce
 udp://chouchou.top:8080/announce
 
 udp://soysta-fr1.dev.sercomkc.org:6969/announce
+
+udp://ns-1.x-fins.com:6969/announce
 
