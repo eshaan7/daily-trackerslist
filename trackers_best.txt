@@ -84,6 +84,8 @@ udp://rep-art.ynh.fr:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
 
+udp://tamas3.ynh.fr:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://open.demonii.com:1337/announce
@@ -97,4 +99,6 @@ udp://chouchou.top:8080/announce
 udp://soysta-fr1.dev.sercomkc.org:6969/announce
 
 udp://ns-1.x-fins.com:6969/announce
+
+udp://a.cdd5090t.tk:6969/announce
 
