@@ -16,8 +16,6 @@ http://tracker.bt4g.com:2095/announce
 
 http://tracker.files.fm:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -35,6 +33,8 @@ udp://tracker.leech.ie:1337/announce
 udp://public.publictracker.xyz:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
+
+udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
@@ -90,15 +90,13 @@ udp://tracker.artixlinux.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
-udp://laze.cc:6969/announce
-
 udp://bt.ktrackers.com:6666/announce
 
 udp://chouchou.top:8080/announce
 
-udp://soysta-fr1.dev.sercomkc.org:6969/announce
-
 udp://ns-1.x-fins.com:6969/announce
 
 udp://a.cdd5090t.tk:6969/announce
+
+udp://www.jhymov.co:6969/announce
 
