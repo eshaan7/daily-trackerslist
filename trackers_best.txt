@@ -98,5 +98,3 @@ udp://ns-1.x-fins.com:6969/announce
 
 udp://a.cdd5090t.tk:6969/announce
 
-udp://www.jhymov.co:6969/announce
-
