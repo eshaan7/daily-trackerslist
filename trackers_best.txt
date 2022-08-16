@@ -40,6 +40,8 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 https://tr.burnabyhighstar.com:443/announce
 
 udp://open.xxtor.com:3074/announce
@@ -56,7 +58,11 @@ http://ipv6.govt.hu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
+http://i-p-v-6.tk:6969/announce
+
 http://open-v6.demonoid.ch:6969/announce
+
+https://tracker1.520.jp:443/announce
 
 http://incine.ru:6969/announce
 
@@ -73,8 +79,6 @@ udp://epider.me:6969/announce
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
-
-udp://mserver.link:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
@@ -95,6 +99,4 @@ udp://bt.ktrackers.com:6666/announce
 udp://chouchou.top:8080/announce
 
 udp://ns-1.x-fins.com:6969/announce
-
-udp://a.cdd5090t.tk:6969/announce
 
