@@ -76,6 +76,8 @@ udp://epider.me:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://sanincode.com:6969/announce
+
 udp://htz3.noho.st:6969/announce
 
 udp://lloria.fr:6969/announce
@@ -93,6 +95,4 @@ udp://open.demonii.com:1337/announce
 udp://bt.ktrackers.com:6666/announce
 
 udp://chouchou.top:8080/announce
-
-udp://ns-1.x-fins.com:6969/announce
 
