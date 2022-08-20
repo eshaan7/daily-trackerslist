@@ -80,6 +80,8 @@ udp://sanincode.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
+udp://tracker.4.babico.name.tr:3131/announce
+
 udp://lloria.fr:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
@@ -90,7 +92,7 @@ udp://tamas3.ynh.fr:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
 
-udp://bt.ktrackers.com:6666/announce
+udp://tracker.6.babico.name.tr:6969/announce
 
 udp://chouchou.top:8080/announce
 
