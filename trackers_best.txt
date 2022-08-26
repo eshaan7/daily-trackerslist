@@ -30,6 +30,8 @@ udp://public.publictracker.xyz:6969/announce
 
 udp://tracker.altrosky.nl:6969/announce
 
+udp://tracker.theoks.net:6969/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
