@@ -10,6 +10,8 @@ udp://tracker.moeking.me:6969/announce
 
 http://vps02.net.orel.ru:80/announce
 
+https://tracker.nanoha.org:443/announce
+
 http://tracker.files.fm:6969/announce
 
 http://tracker.noobsubs.net:80/announce
@@ -39,8 +41,6 @@ udp://open.publictracker.xyz:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 
 udp://ipv6.tracker.monitorit4.me:6969/announce
-
-https://tr.burnabyhighstar.com:443/announce
 
 udp://open.xxtor.com:3074/announce
 
@@ -89,4 +89,6 @@ udp://tamas3.ynh.fr:6969/announce
 udp://mail.artixlinux.org:6969/announce
 
 udp://tracker.artixlinux.org:6969/announce
+
+udp://tracker.joybomb.tw:6969/announce
 
