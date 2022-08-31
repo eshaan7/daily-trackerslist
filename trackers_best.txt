@@ -36,11 +36,11 @@ udp://tracker.openbittorrent.com:6969/announce
 
 udp://tracker.theoks.net:6969/announce
 
+udp://vibe.sleepyinternetfun.xyz:1738/announce
+
 udp://open.publictracker.xyz:6969/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://open.xxtor.com:3074/announce
 
@@ -70,8 +70,6 @@ udp://aarsen.me:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://davidkirkevans.com:6969/announce
-
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -91,4 +89,6 @@ udp://tracker.joybomb.tw:6969/announce
 https://tracker.tamersunion.org:443/announce
 
 http://tracker.vrpnet.org:6969/announce
+
+https://tracker.jiesen.life:8443/announce
 
