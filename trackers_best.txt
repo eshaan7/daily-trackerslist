@@ -14,8 +14,6 @@ https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
 
-http://tracker.noobsubs.net:80/announce
-
 udp://opentracker.i2p.rocks:6969/announce
 
 http://open.acgnxtracker.com:80/announce
@@ -70,6 +68,8 @@ udp://aarsen.me:6969/announce
 
 udp://epider.me:6969/announce
 
+udp://cutscloud.duckdns.org:6969/announce
+
 udp://fh2.cmp-gaming.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -77,8 +77,6 @@ udp://htz3.noho.st:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
-
-udp://mail.zasaonsk.ga:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
@@ -90,5 +88,5 @@ https://tracker.tamersunion.org:443/announce
 
 http://tracker.vrpnet.org:6969/announce
 
-https://tracker.jiesen.life:8443/announce
+udp://c.ns.cluefone.com:6969/announce
 
