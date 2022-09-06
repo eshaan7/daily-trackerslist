@@ -1,15 +1,15 @@
 
 # Eshaan7/daily-trackerslist 
 
-[![Last update](https://img.shields.io/badge/Last%20update-05/09/2022-blue.svg)](#)
+[![Last update](https://img.shields.io/badge/Last%20update-06/09/2022-blue.svg)](#)
 
 Updated list of public BitTorrent trackers.
 
 ### Lists
-*These lists are automatically updated every day. Last update 05/09/2022 (_dd/mm/yyyy_):*
+*These lists are automatically updated every day. Last update 06/09/2022 (_dd/mm/yyyy_):*
 
 * trackers_best (49 trackers) => [link](https://raw.githubusercontent.com/eshaan7/daily-trackerslist/master/trackers_best.txt)
-* trackers_stable (113 trackers) => [link](https://raw.githubusercontent.com/eshaan7/daily-trackerslist/master/trackers_stable.txt)
+* trackers_stable (110 trackers) => [link](https://raw.githubusercontent.com/eshaan7/daily-trackerslist/master/trackers_stable.txt)
 
 ## Note
 

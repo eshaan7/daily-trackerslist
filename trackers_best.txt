@@ -44,6 +44,8 @@ http://fxtt.ru:80/announce
 
 udp://tracker.bitsearch.to:1337/announce
 
+udp://tracker.pomf.se:80/announce
+
 udp://open.xxtor.com:3074/announce
 
 udp://open.free-tracker.ga:6969/announce
@@ -59,8 +61,6 @@ udp://zecircle.xyz:6969/announce
 https://tracker.baka.ink:443/announce
 
 http://open-v6.demonoid.ch:6969/announce
-
-udp://960303.xyz:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
 
