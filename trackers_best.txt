@@ -2,7 +2,11 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
+udp://open.stealth.si:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
+
+udp://exodus.desync.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
@@ -85,4 +89,6 @@ https://tracker.tamersunion.org:443/announce
 udp://www.skynetcenter.me:6969/announce
 
 udp://bt.plc.mx:3074/announce
+
+udp://aria2.team.ml:6969/announce
 
