@@ -92,3 +92,5 @@ udp://bt.plc.mx:3074/announce
 
 udp://aria2.team.ml:6969/announce
 
+http://jp.moeweb.pw:6969/announce
+
