@@ -52,6 +52,8 @@ http://ipv6.govt.hu:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
+http://i-p-v-6.tk:6969/announce
+
 udp://zecircle.xyz:6969/announce
 
 https://tracker.baka.ink:443/announce
@@ -80,17 +82,19 @@ udp://open.demonii.com:1337/announce
 
 udp://laze.cc:6969/announce
 
+udp://tracker.6.babico.name.tr:6969/announce
+
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://www.skynetcenter.me:6969/announce
-
 udp://bt.plc.mx:3074/announce
 
 udp://aria2.team.ml:6969/announce
 
 http://jp.moeweb.pw:6969/announce
+
+udp://leefafa.tk:6969/announce
 
