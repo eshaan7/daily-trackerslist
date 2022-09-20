@@ -4,6 +4,8 @@ udp://explodie.org:6969/announce
 
 udp://open.stealth.si:80/announce
 
+udp://ipv4.tracker.harry.lu:80/announce
+
 udp://exodus.desync.com:6969/announce
 
 udp://tracker.birkenwald.de:6969/announce
