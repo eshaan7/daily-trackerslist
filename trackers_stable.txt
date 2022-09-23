@@ -12,8 +12,6 @@ udp://ipv6.tracker.harry.lu:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
 
-udp://tracker.filemail.com:6969/announce
-
 http://tracker.bt4g.com:2095/announce
 
 https://tracker.nanoha.org:443/announce
@@ -38,6 +36,8 @@ udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.leech.ie:1337/announce
 
+udp://app.icon256.com:8000/announce
+
 udp://tracker.openbittorrent.com:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
@@ -49,8 +49,6 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 https://tr.abiir.top:443/announce
 
 udp://zecircle.xyz:6969/announce
-
-https://tracker.baka.ink:443/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
@@ -86,11 +84,15 @@ udp://bt.plc.mx:3074/announce
 
 http://jp.moeweb.pw:6969/announce
 
-udp://leefafa.tk:6969/announce
-
 https://tr.abir.ga:443/announce
 
 https://t.btcland.xyz:443/announce
+
+udp://buddyfly.top:6969/announce
+
+http://tracker.h0me.cc:8880/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -116,11 +118,9 @@ udp://cutscloud.duckdns.org:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
-udp://tracker.artixlinux.org:6969/announce
+udp://leefafa.tk:6969/announce
 
 http://t.acg.rip:6699/announce
-
-http://t.overflow.biz:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -130,29 +130,37 @@ udp://open.dstud.io:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
-http://ipv6.1337.cx:6969/announce
-
-udp://rep-art.ynh.fr:6969/announce
+udp://tracker.artixlinux.org:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
 
-udp://public.publictracker.xyz:6969/announce
+http://t.overflow.biz:6969/announce
 
-udp://tracker.auctor.tv:6969/announce
+udp://public.publictracker.xyz:6969/announce
 
 udp://torrentclub.space:6969/announce
 
 udp://mirror.aptus.co.tz:6969/announce
 
+http://ipv6.1337.cx:6969/announce
+
 udp://v2.iperson.xyz:6969/announce
 
-http://incine.ru:6969/announce
+udp://mserver.link:6969/announce
+
+udp://rep-art.ynh.fr:6969/announce
 
 udp://rekcart.duckdns.org:15480/announce
 
+udp://tracker.auctor.tv:6969/announce
+
 udp://download.nerocloud.me:6969/announce
 
+https://tracker.lilithraws.org:443/announce
+
 udp://tracker.cyberia.is:6969/announce
+
+udp://bt1.archive.org:6969/announce
 
 udp://open.publictracker.xyz:6969/announce
 
@@ -162,13 +170,9 @@ udp://open.free-tracker.ga:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
-https://tracker.lilithraws.org:443/announce
-
 http://t.nyaatracker.com:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
-
-udp://bt1.archive.org:6969/announce
 
 udp://tracker.srv00.com:6969/announce
 
@@ -176,61 +180,61 @@ udp://tracker.tcp.exchange:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-udp://bt2.archive.org:6969/announce
+https://tracker.kuroy.me:443/announce
 
 udp://960303.xyz:6969/announce
 
+http://incine.ru:6969/announce
+
 https://tracker2.ctix.cn:443/announce
+
+udp://bt2.archive.org:6969/announce
 
 udp://tracker.torrent.eu.org:451/announce
 
-udp://thouvenin.cloud:6969/announce
+udp://tracker.skynetcloud.site:6969/announce
 
-udp://astrr.ru:6969/announce
+udp://thouvenin.cloud:6969/announce
 
 udp://new-line.net:6969/announce
 
-udp://tamas3.ynh.fr:6969/announce
-
-https://tracker.kuroy.me:443/announce
-
 udp://p4p.arenabg.com:1337/announce
-
-udp://tracker6.lelux.fi:6969/announce
 
 http://bt.okmp3.ru:2710/announce
 
-udp://tracker.publictracker.xyz:6969/announce
+udp://astrr.ru:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker6.lelux.fi:6969/announce
+
 udp://epider.me:6969/announce
 
-udp://yann5.hexanyn.fr:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 
-http://bt.endpot.com:80/announce
-
-udp://app.icon256.com:8000/announce
-
-udp://run.publictracker.xyz:6969/announce
-
-http://tracker.mywaifu.best:6969/announce
+udp://kokodayo.site:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://kokodayo.site:6969/announce
+udp://yann5.hexanyn.fr:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-https://tracker.loli.co.nz:443/announce
+http://tracker.mywaifu.best:6969/announce
 
 udp://theodoric.fr:6969/announce
 
-udp://open.4ever.tk:6969/announce
+udp://shizzle.hammetjus.nl:6969/announce
 
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://mserver.link:6969/announce
+udp://open.4ever.tk:6969/announce
+
+http://bt.endpot.com:80/announce
 
