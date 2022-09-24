@@ -2,8 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://exodus.desync.com:6969/announce
@@ -66,11 +64,13 @@ udp://htz3.noho.st:6969/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://mserver.link:6969/announce
+
+udp://uploads.gamecoast.net:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://laze.cc:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -89,6 +89,4 @@ https://tr.abir.ga:443/announce
 https://t.btcland.xyz:443/announce
 
 udp://buddyfly.top:6969/announce
-
-http://tracker.h0me.cc:8880/announce
 

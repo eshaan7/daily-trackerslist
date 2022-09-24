@@ -2,8 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 udp://explodie.org:6969/announce
 
-udp://open.stealth.si:80/announce
-
 udp://ipv4.tracker.harry.lu:80/announce
 
 udp://exodus.desync.com:6969/announce
@@ -66,11 +64,13 @@ udp://htz3.noho.st:6969/announce
 
 udp://moonburrow.club:6969/announce
 
+udp://mserver.link:6969/announce
+
+udp://uploads.gamecoast.net:6969/announce
+
 udp://mail.artixlinux.org:6969/announce
 
 udp://open.demonii.com:1337/announce
-
-udp://laze.cc:6969/announce
 
 udp://bt.ktrackers.com:6666/announce
 
@@ -90,9 +90,7 @@ https://t.btcland.xyz:443/announce
 
 udp://buddyfly.top:6969/announce
 
-http://tracker.h0me.cc:8880/announce
-
-udp://tracker.filemail.com:6969/announce
+udp://open.stealth.si:80/announce
 
 udp://tracker.moeking.me:6969/announce
 
@@ -114,13 +112,13 @@ http://tracker.k.vu:6969/announce
 
 http://i-p-v-6.tk:6969/announce
 
-udp://cutscloud.duckdns.org:6969/announce
-
-udp://uploads.gamecoast.net:6969/announce
+udp://laze.cc:6969/announce
 
 udp://leefafa.tk:6969/announce
 
 http://t.acg.rip:6699/announce
+
+udp://tracker.filemail.com:6969/announce
 
 udp://tracker.0x.tf:6969/announce
 
@@ -130,11 +128,11 @@ udp://open.dstud.io:6969/announce
 
 http://ipv6.govt.hu:6969/announce
 
+udp://cutscloud.duckdns.org:6969/announce
+
 udp://tracker.artixlinux.org:6969/announce
 
 udp://torrents.artixlinux.org:6969/announce
-
-http://t.overflow.biz:6969/announce
 
 udp://public.publictracker.xyz:6969/announce
 
@@ -146,95 +144,91 @@ http://ipv6.1337.cx:6969/announce
 
 udp://v2.iperson.xyz:6969/announce
 
-udp://mserver.link:6969/announce
+https://tracker.lilithraws.org:443/announce
+
+http://t.overflow.biz:6969/announce
 
 udp://rep-art.ynh.fr:6969/announce
 
-udp://rekcart.duckdns.org:15480/announce
-
-udp://tracker.auctor.tv:6969/announce
+udp://slicie.icon256.com:8000/announce
 
 udp://download.nerocloud.me:6969/announce
-
-https://tracker.lilithraws.org:443/announce
 
 udp://tracker.cyberia.is:6969/announce
 
 udp://bt1.archive.org:6969/announce
 
-udp://open.publictracker.xyz:6969/announce
+udp://tracker.auctor.tv:6969/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
 udp://open.free-tracker.ga:6969/announce
 
-udp://slicie.icon256.com:8000/announce
+udp://rekcart.duckdns.org:15480/announce
 
-http://t.nyaatracker.com:80/announce
+https://tracker.kuroy.me:443/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+udp://open.publictracker.xyz:6969/announce
+
 udp://tracker.srv00.com:6969/announce
+
+http://t.nyaatracker.com:80/announce
 
 udp://tracker.tcp.exchange:6969/announce
 
 udp://www.torrent.eu.org:451/announce
 
-https://tracker.kuroy.me:443/announce
+udp://tracker.torrent.eu.org:451/announce
 
 udp://960303.xyz:6969/announce
-
-http://incine.ru:6969/announce
 
 https://tracker2.ctix.cn:443/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://tracker.torrent.eu.org:451/announce
-
-udp://tracker.skynetcloud.site:6969/announce
+http://bt.okmp3.ru:2710/announce
 
 udp://thouvenin.cloud:6969/announce
 
-udp://new-line.net:6969/announce
-
 udp://p4p.arenabg.com:1337/announce
 
-http://bt.okmp3.ru:2710/announce
-
 udp://astrr.ru:6969/announce
+
+udp://new-line.net:6969/announce
+
+udp://tracker6.lelux.fi:6969/announce
 
 udp://tamas3.ynh.fr:6969/announce
 
 udp://tracker.dler.com:6969/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://tracker.publictracker.xyz:6969/announce
 
 udp://epider.me:6969/announce
 
-udp://tracker.publictracker.xyz:6969/announce
+http://incine.ru:6969/announce
 
 udp://kokodayo.site:6969/announce
 
 udp://ryjer.com:6969/announce
 
-udp://yann5.hexanyn.fr:6969/announce
-
 udp://run.publictracker.xyz:6969/announce
 
-udp://bubu.mapfactor.com:6969/announce
+udp://yann5.hexanyn.fr:6969/announce
 
 udp://admin.52ywp.com:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
-
-udp://theodoric.fr:6969/announce
+udp://bubu.mapfactor.com:6969/announce
 
 udp://shizzle.hammetjus.nl:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 udp://tracker.swateam.org.uk:2710/announce
 
-udp://open.4ever.tk:6969/announce
+udp://theodoric.fr:6969/announce
 
-http://bt.endpot.com:80/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 
