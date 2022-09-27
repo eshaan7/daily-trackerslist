@@ -26,8 +26,6 @@ udp://fe.dealclub.de:6969/announce
 
 udp://movies.zsw.ca:6969/announce
 
-udp://6ahddutb1ucc3cp.ru:6969/announce
-
 udp://retracker01-msk-virt.corbina.net:80/announce
 
 udp://tracker.leech.ie:1337/announce
@@ -80,8 +78,6 @@ udp://bt.plc.mx:3074/announce
 
 http://jp.moeweb.pw:6969/announce
 
-udp://buddyfly.top:6969/announce
-
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 http://parag.rs:6969/announce
@@ -102,15 +98,11 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 
 udp://carr.codes:6969/announce
 
-udp://madiator.com:6969/announce
-
 http://vps-dd0a0715.vps.ovh.net:6969/announce
-
-http://li1406-230.members.linode.com:6969/announce
 
 udp://static.202.35.76.144.clients.your-server.de:6969/announce
 
 udp://tracker.openbtba.com:6969/announce
 
-udp://wepzone.net:6969/announce
+https://tr.fuckbitcoin.xyz:443/announce
 
