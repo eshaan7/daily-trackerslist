@@ -20,6 +20,8 @@ http://open.acgnxtracker.com:80/announce
 
 udp://tracker.monitorit4.me:6969/announce
 
+udp://tracker.army:6969/announce
+
 udp://tracker2.dler.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
@@ -58,8 +60,6 @@ udp://sanincode.com:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
-udp://mserver.link:6969/announce
-
 udp://uploads.gamecoast.net:6969/announce
 
 udp://mail.artixlinux.org:6969/announce
@@ -88,8 +88,6 @@ udp://f1sh.de:6969/announce
 
 udp://bananas.space:6969/announce
 
-udp://v1046920.hosted-by-vdsina.ru:6969/announce
-
 udp://94-227-232-84.access.telenet.be:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -103,6 +101,4 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://static.202.35.76.144.clients.your-server.de:6969/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
-
-udp://bruh.cluster.ws:6969/announce
 
