@@ -2,8 +2,6 @@ udp://explodie.org:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://ipv6.tracker.harry.lu:80/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -56,8 +54,6 @@ udp://htz3.noho.st:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
-udp://mail.artixlinux.org:6969/announce
-
 udp://open.demonii.com:1337/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -91,4 +87,6 @@ http://vps-dd0a0715.vps.ovh.net:6969/announce
 udp://static.202.35.76.144.clients.your-server.de:6969/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
