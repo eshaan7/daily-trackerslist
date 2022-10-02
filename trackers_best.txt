@@ -64,6 +64,8 @@ https://tracker.tamersunion.org:443/announce
 
 udp://bt.plc.mx:3074/announce
 
+http://hzzwly.gq:6969/announce
+
 http://jp.moeweb.pw:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
@@ -89,4 +91,6 @@ udp://static.202.35.76.144.clients.your-server.de:6969/announce
 https://tr.fuckbitcoin.xyz:443/announce
 
 udp://tracker.skynetcloud.site:6969/announce
+
+udp://bt.oiyo.tk:6969/announce
 
