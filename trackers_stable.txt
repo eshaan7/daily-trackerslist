@@ -14,8 +14,6 @@ udp://tracker.beeimg.com:6969/announce
 
 http://open.acgnxtracker.com:80/announce
 
-udp://tracker.monitorit4.me:6969/announce
-
 udp://tracker.army:6969/announce
 
 udp://tracker2.dler.com:80/announce
@@ -35,8 +33,6 @@ udp://tracker.openbittorrent.com:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://tracker.bitsearch.to:1337/announce
-
-udp://ipv6.tracker.monitorit4.me:6969/announce
 
 https://tr.abiir.top:443/announce
 
@@ -96,10 +92,6 @@ udp://bt.oiyo.tk:6969/announce
 
 udp://open.stealth.si:80/announce
 
-udp://ipv4.tracker.harry.lu:80/announce
-
-udp://ipv6.tracker.harry.lu:80/announce
-
 http://t.acg.rip:6699/announce
 
 udp://tracker.moeking.me:6969/announce
@@ -146,8 +138,6 @@ udp://madiator.com:6969/announce
 
 udp://p4p.arenabg.com:1337/announce
 
-udp://public.publictracker.xyz:6969/announce
-
 udp://torrentclub.space:6969/announce
 
 udp://open.dstud.io:6969/announce
@@ -162,41 +152,45 @@ udp://sanincode.com:6969/announce
 
 udp://download.nerocloud.me:6969/announce
 
-udp://bt1.archive.org:6969/announce
-
-http://t.overflow.biz:6969/announce
-
-http://i-p-v-6.tk:6969/announce
-
-udp://rep-art.ynh.fr:6969/announce
+udp://public.publictracker.xyz:6969/announce
 
 udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 http://tracker.ipv6tracker.ru:80/announce
 
+udp://bt1.archive.org:6969/announce
+
+http://t.overflow.biz:6969/announce
+
+udp://tracker.monitorit4.me:6969/announce
+
+udp://rep-art.ynh.fr:6969/announce
+
 udp://open.publictracker.xyz:6969/announce
+
+udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://open.free-tracker.ga:6969/announce
 
-http://ipv6.govt.hu:6969/announce
+http://i-p-v-6.tk:6969/announce
 
 udp://960303.xyz:6969/announce
-
-udp://cutscloud.duckdns.org:6969/announce
 
 udp://buddyfly.top:6969/announce
 
 udp://retracker01-msk-virt.corbina.net:80/announce
 
+udp://tracker.srv00.com:6969/announce
+
+http://ipv6.govt.hu:6969/announce
+
 http://bt.okmp3.ru:2710/announce
 
-udp://tracker.srv00.com:6969/announce
+udp://tracker.yangxiaoguozi.cn:6969/announce
 
 http://ipv6.1337.cx:6969/announce
 
 udp://tracker.tcp.exchange:6969/announce
-
-udp://www.torrent.eu.org:451/announce
 
 udp://leefafa.tk:6969/announce
 
@@ -204,59 +198,69 @@ http://t.nyaatracker.com:80/announce
 
 udp://bt2.archive.org:6969/announce
 
-udp://tracker.cyberia.is:6969/announce
-
-udp://tracker.filemail.com:6969/announce
-
 udp://tracker.torrent.eu.org:451/announce
 
-udp://rekcart.duckdns.org:15480/announce
+udp://cutscloud.duckdns.org:6969/announce
+
+udp://www.torrent.eu.org:451/announce
+
+udp://tracker.cyberia.is:6969/announce
 
 https://tracker2.ctix.cn:443/announce
 
-udp://tracker.yangxiaoguozi.cn:6969/announce
+udp://tracker.filemail.com:6969/announce
 
 udp://slicie.icon256.com:8000/announce
 
 udp://new-line.net:6969/announce
 
-udp://tracker6.lelux.fi:6969/announce
+udp://rekcart.duckdns.org:15480/announce
 
 udp://tracker.dler.com:6969/announce
 
+udp://tracker6.lelux.fi:6969/announce
+
 https://tr.burnabyhighstar.com:443/announce
-
-udp://tracker.opentrackr.org:1337/announce
-
-udp://black-bird.ynh.fr:6969/announce
-
-udp://thouvenin.cloud:6969/announce
-
-udp://jutone.com:6969/announce
 
 udp://wepzone.net:6969/announce
 
-udp://epider.me:6969/announce
-
-udp://tamas3.ynh.fr:6969/announce
+udp://tracker.opentrackr.org:1337/announce
 
 udp://bubu.mapfactor.com:6969/announce
 
+udp://jutone.com:6969/announce
+
+udp://thouvenin.cloud:6969/announce
+
+udp://epider.me:6969/announce
+
+udp://black-bird.ynh.fr:6969/announce
+
+udp://tamas3.ynh.fr:6969/announce
+
 udp://admin.52ywp.com:6969/announce
 
-udp://kokodayo.site:6969/announce
+udp://ipv6.tracker.harry.lu:80/announce
 
 udp://tracker-udp.gbitt.info:80/announce
 
-http://tracker.gbitt.info:80/announce
+http://tracker.vrpnet.org:6969/announce
+
+udp://ipv4.tracker.harry.lu:80/announce
 
 udp://tracker1.bt.moack.co.kr:80/announce
 
-udp://run.publictracker.xyz:6969/announce
+udp://kokodayo.site:6969/announce
+
+http://tracker.gbitt.info:80/announce
+
+udp://mail.zasaonsk.ga:6969/announce
 
 udp://btt.service.gongt.me:43079/announce
 
-udp://tracker.publictracker.xyz:6969/announce
-
 udp://open.4ever.tk:6969/announce
+
+udp://run.publictracker.xyz:6969/announce
+
+udp://tracker.publictracker.xyz:6969/announce
 
