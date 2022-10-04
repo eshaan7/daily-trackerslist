@@ -50,6 +50,8 @@ udp://htz3.noho.st:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
+udp://mail.zasaonsk.ga:6969/announce
+
 udp://open.demonii.com:1337/announce
 
 udp://tracker.joybomb.tw:6969/announce
@@ -58,15 +60,9 @@ udp://tracker.jonaslsa.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
-udp://bt.plc.mx:3074/announce
-
-http://hzzwly.gq:6969/announce
-
 http://jp.moeweb.pw:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
-
-http://parag.rs:6969/announce
 
 udp://elementsbrowser.com:6969/announce
 
@@ -89,4 +85,6 @@ https://tr.fuckbitcoin.xyz:443/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://bt.oiyo.tk:6969/announce
+
+udp://cancela-tu.creditofiscal.mx:3074/announce
 
