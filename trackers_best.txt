@@ -1,7 +1,5 @@
 udp://explodie.org:6969/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -60,6 +58,8 @@ udp://tracker.jonaslsa.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
 
+udp://download.nerocloud.me:6969/announce
+
 http://jp.moeweb.pw:6969/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
@@ -76,11 +76,7 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 
 udp://carr.codes:6969/announce
 
-http://vps-dd0a0715.vps.ovh.net:6969/announce
-
 udp://static.202.35.76.144.clients.your-server.de:6969/announce
-
-https://tr.fuckbitcoin.xyz:443/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
