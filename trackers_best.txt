@@ -10,8 +10,6 @@ https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
 
-udp://tracker.beeimg.com:6969/announce
-
 http://open.acgnxtracker.com:80/announce
 
 udp://tracker2.dler.com:80/announce
@@ -85,6 +83,4 @@ udp://bt.oiyo.tk:6969/announce
 udp://cancela-tu.creditofiscal.mx:3074/announce
 
 https://t1.hloli.org:443/announce
-
-http://kamikazee.duckdns.org:7777/announce
 
