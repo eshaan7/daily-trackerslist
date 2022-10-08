@@ -78,8 +78,6 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 
 udp://carr.codes:6969/announce
 
-udp://bt.oiyo.tk:6969/announce
-
 udp://cancela-tu.creditofiscal.mx:3074/announce
 
 https://t1.hloli.org:443/announce
