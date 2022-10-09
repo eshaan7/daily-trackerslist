@@ -44,7 +44,7 @@ udp://psyco.fr:6969/announce
 
 udp://aarsen.me:6969/announce
 
-udp://fh2.cmp-gaming.com:6969/announce
+udp://yahor.ftp.sh:6969/announce
 
 udp://htz3.noho.st:6969/announce
 
