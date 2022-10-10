@@ -10,6 +10,8 @@ https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
 
+udp://opentracker.i2p.rocks:6969/announce
+
 http://open.acgnxtracker.com:80/announce
 
 udp://tracker2.dler.com:80/announce
@@ -29,6 +31,8 @@ https://tracker.lilithraws.cf:443/announce
 udp://app.icon256.com:8000/announce
 
 udp://tracker.openbittorrent.com:6969/announce
+
+udp://tracker.theoks.net:6969/announce
 
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
@@ -62,8 +66,6 @@ https://tracker.tamersunion.org:443/announce
 
 udp://download.nerocloud.me:6969/announce
 
-http://jp.moeweb.pw:6969/announce
-
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
 udp://elementsbrowser.com:6969/announce
@@ -79,6 +81,4 @@ udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 udp://carr.codes:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
-
-https://t1.hloli.org:443/announce
 
