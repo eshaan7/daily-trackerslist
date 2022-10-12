@@ -58,6 +58,8 @@ udp://uploads.gamecoast.net:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
 
+udp://torrents.artixlinux.org:6969/announce
+
 udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
@@ -65,6 +67,10 @@ udp://tracker.jonaslsa.com:6969/announce
 https://tracker.tamersunion.org:443/announce
 
 udp://download.nerocloud.me:6969/announce
+
+https://tracker.lilithraws.org:443/announce
+
+https://tracker.kuroy.me:443/announce
 
 udp://h85-235-17-132.cust.a3fiber.se:6969/announce
 
@@ -74,11 +80,11 @@ udp://f1sh.de:6969/announce
 
 udp://bananas.space:6969/announce
 
-udp://static.54.161.216.95.clients.your-server.de:6969/announce
-
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 
 udp://carr.codes:6969/announce
 
 udp://cancela-tu.creditofiscal.mx:3074/announce
+
+http://tracker.bittorrent.nibblepoker.lu:49227/announce
 
