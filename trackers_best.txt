@@ -50,8 +50,6 @@ udp://psyco.fr:6969/announce
 
 udp://aarsen.me:6969/announce
 
-udp://yahor.ftp.sh:6969/announce
-
 udp://htz3.noho.st:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
@@ -73,8 +71,6 @@ https://tracker.lilithraws.org:443/announce
 https://tracker.kuroy.me:443/announce
 
 udp://f1sh.de:6969/announce
-
-udp://bananas.space:6969/announce
 
 udp://cpe-104-34-3-152.socal.res.rr.com:6969/announce
 
