@@ -1,5 +1,7 @@
 udp://explodie.org:6969/announce
 
+udp://open.stealth.si:80/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -36,8 +38,6 @@ udp://tracker.bitsearch.to:1337/announce
 
 udp://tracker.pomf.se:80/announce
 
-udp://tracker.auctor.tv:6969/announce
-
 https://tr.burnabyhighstar.com:443/announce
 
 udp://mirror.aptus.co.tz:6969/announce
@@ -47,8 +47,6 @@ https://tr.abiir.top:443/announce
 udp://zecircle.xyz:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
-
-udp://psyco.fr:6969/announce
 
 udp://aarsen.me:6969/announce
 
@@ -67,6 +65,8 @@ udp://tracker.jonaslsa.com:6969/announce
 https://tracker.tamersunion.org:443/announce
 
 udp://download.nerocloud.me:6969/announce
+
+udp://leefafa.tk:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
