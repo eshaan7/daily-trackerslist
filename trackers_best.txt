@@ -64,11 +64,13 @@ https://tracker.tamersunion.org:443/announce
 
 udp://leefafa.tk:6969/announce
 
-https://tracker.kuroy.me:443/announce
+udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://carr.codes:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
 https://tr.abir.ga:443/announce
+
+udp://tracker.cubonegro.xyz:6969/announce
 
