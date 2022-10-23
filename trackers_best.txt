@@ -32,8 +32,6 @@ https://tracker.cyber-hub.net:443/announce
 
 https://tracker.lilithraws.cf:443/announce
 
-udp://app.icon256.com:8000/announce
-
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://tracker.bitsearch.to:1337/announce
@@ -66,9 +64,13 @@ udp://leefafa.tk:6969/announce
 
 udp://carr.codes:6969/announce
 
+https://tr.fuckbitcoin.xyz:443/announce
+
 https://tracker.lilithraws.org:443/announce
 
 https://tr.abir.ga:443/announce
 
 udp://tracker.cubonegro.xyz:6969/announce
+
+udp://tracker.encrypted-data.xyz:1337/announce
 
