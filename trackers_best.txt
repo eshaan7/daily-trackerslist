@@ -42,6 +42,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+http://open-v6.demonoid.ch:6969/announce
+
 udp://ben.kerbertools.xyz:6969/announce
 
 udp://aarsen.me:6969/announce
