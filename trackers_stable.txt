@@ -76,6 +76,8 @@ udp://tracker.cubonegro.xyz:6969/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
 
+udp://tracker.pimpmyworld.to:6969/announce
+
 udp://exodus.desync.com:6969/announce
 
 http://t.acg.rip:6699/announce

@@ -76,3 +76,5 @@ udp://tracker.cubonegro.xyz:6969/announce
 
 udp://tracker.encrypted-data.xyz:1337/announce
 
+udp://tracker.pimpmyworld.to:6969/announce
+
