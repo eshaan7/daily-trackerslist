@@ -80,3 +80,5 @@ udp://tracker.pimpmyworld.to:6969/announce
 
 udp://ftp.pet:2710/announce
 
+udp://open6.demonii.com:1337/announce
+
