@@ -42,6 +42,8 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abiir.top:443/announce
 
+http://i-p-v-6.tk:6969/announce
+
 http://open-v6.demonoid.ch:6969/announce
 
 udp://ben.kerbertools.xyz:6969/announce
@@ -70,15 +72,9 @@ https://tr.fuckbitcoin.xyz:443/announce
 
 https://tracker.lilithraws.org:443/announce
 
-https://tr.abir.ga:443/announce
-
 udp://tracker.cubonegro.xyz:6969/announce
 
-udp://tracker.encrypted-data.xyz:1337/announce
-
-udp://tracker.pimpmyworld.to:6969/announce
-
-udp://ftp.pet:2710/announce
-
 udp://open6.demonii.com:1337/announce
+
+udp://dns.xxtor.com:53/announce
 
