@@ -46,8 +46,6 @@ http://i-p-v-6.tk:6969/announce
 
 http://open-v6.demonoid.ch:6969/announce
 
-udp://ben.kerbertools.xyz:6969/announce
-
 udp://aarsen.me:6969/announce
 
 udp://htz3.noho.st:6969/announce
@@ -62,19 +60,21 @@ udp://tracker.joybomb.tw:6969/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
-https://tracker.tamersunion.org:443/announce
-
 udp://leefafa.tk:6969/announce
 
 udp://carr.codes:6969/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-https://tracker.lilithraws.org:443/announce
-
 udp://tracker.cubonegro.xyz:6969/announce
 
-udp://open6.demonii.com:1337/announce
-
 udp://dns.xxtor.com:53/announce
+
+udp://tracker.skynetcloud.site:6969/announce
+
+udp://tracker.wellknownclub.net:8100/announce
+
+http://tracker4.itzmx.com:2710/announce
+
+https://tracker.lilithraws.org:443/announce
 
