@@ -1,5 +1,5 @@
 
-# Eshaan7/daily-trackerslist 
+# eshaan7/daily-trackerslist 
 
 [![Last update](https://img.shields.io/badge/Last%20update-31/10/2022-blue.svg)](#)
 
