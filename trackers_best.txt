@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-udp://explodie.org:6969/announce
-
 udp://open.stealth.si:80/announce
 
 http://tracker.ipv6tracker.ru:80/announce
@@ -17,8 +15,6 @@ https://tracker.nanoha.org:443/announce
 http://tracker.files.fm:6969/announce
 
 http://open.acgnxtracker.com:80/announce
-
-udp://tracker.army:6969/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -60,8 +56,6 @@ udp://mail.zasaonsk.ga:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-udp://tracker.joybomb.tw:6969/announce
-
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://leefafa.tk:6969/announce
@@ -70,7 +64,7 @@ udp://carr.codes:6969/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-udp://tracker.cubonegro.xyz:6969/announce
+https://t1.hloli.org:443/announce
 
 udp://tracker.skynetcloud.site:6969/announce
 
