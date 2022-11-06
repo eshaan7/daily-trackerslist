@@ -42,10 +42,6 @@ https://tr.abiir.top:443/announce
 
 udp://open.free-tracker.ga:6969/announce
 
-http://i-p-v-6.tk:6969/announce
-
-http://open-v6.demonoid.ch:6969/announce
-
 udp://aarsen.me:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
@@ -71,6 +67,4 @@ https://t1.hloli.org:443/announce
 http://tracker4.itzmx.com:2710/announce
 
 https://tracker.lilithraws.org:443/announce
-
-udp://tracker.novaopcj.eu.org:6969/announce
 
