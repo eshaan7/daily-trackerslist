@@ -44,6 +44,8 @@ udp://aarsen.me:6969/announce
 
 udp://fh2.cmp-gaming.com:6969/announce
 
+udp://moonburrow.club:6969/announce
+
 udp://uploads.gamecoast.net:6969/announce
 
 udp://mail.zasaonsk.ga:6969/announce
