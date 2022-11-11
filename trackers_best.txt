@@ -52,6 +52,8 @@ udp://mail.zasaonsk.ga:6969/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+udp://bt.ktrackers.com:6666/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 udp://leefafa.tk:6969/announce
