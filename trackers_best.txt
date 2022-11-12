@@ -38,7 +38,7 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-udp://open.free-tracker.ga:6969/announce
+udp://psyco.fr:6969/announce
 
 udp://aarsen.me:6969/announce
 
