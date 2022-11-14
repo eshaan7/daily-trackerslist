@@ -1,5 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 http://tracker.ipv6tracker.ru:80/announce
 
 udp://tracker.birkenwald.de:6969/announce
@@ -13,6 +15,8 @@ https://tracker.nanoha.org:443/announce
 http://tracker.files.fm:6969/announce
 
 http://open.acgnxtracker.com:80/announce
+
+udp://tracker2.dler.com:80/announce
 
 udp://fe.dealclub.de:6969/announce
 
@@ -60,6 +64,8 @@ http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
+https://tracker.tamersunion.org:443/announce
+
 udp://leefafa.tk:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
@@ -76,13 +82,9 @@ udp://sx.xxtor.com:6969/announce
 
 udp://tracker.edkj.club:6969/announce
 
-http://tracker.enitin.xyz:80/announce
-
 http://dn42.smrsh.net:6969/announce
 
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
-
-udp://stargrave.org:6969/announce
 
 udp://thagoat.rocks:6969/announce
 
@@ -101,4 +103,6 @@ udp://kristof.bartanet.cz:6969/announce
 udp://private.anonseed.com:6969/announce
 
 udp://eccologic.net:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
