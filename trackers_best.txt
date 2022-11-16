@@ -2,8 +2,6 @@ udp://tracker.opentrackr.org:1337/announce
 
 http://tracker1.itzmx.com:8080/announce
 
-http://tracker.ipv6tracker.ru:80/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 http://t.acg.rip:6699/announce
@@ -101,8 +99,6 @@ udp://dht.bt251.com:6969/announce
 udp://bedro.cloud:6969/announce
 
 http://504e163a.host.njalla.net:6969/announce
-
-udp://kristof.bartanet.cz:6969/announce
 
 udp://private.anonseed.com:6969/announce
 
