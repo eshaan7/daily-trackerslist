@@ -1,7 +1,5 @@
 udp://tracker.opentrackr.org:1337/announce
 
-http://tracker1.itzmx.com:8080/announce
-
 udp://tracker.birkenwald.de:6969/announce
 
 http://t.acg.rip:6699/announce
@@ -42,7 +40,9 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-http://tracker3.itzmx.com:6961/announce
+udp://open.dstud.io:6969/announce
+
+udp://zecircle.xyz:6969/announce
 
 http://incine.ru:6969/announce
 
@@ -56,11 +56,11 @@ udp://moonburrow.club:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
 
+udp://mail.artixlinux.org:6969/announce
+
+udp://open.demonii.com:1337/announce
+
 https://tracker.imgoingto.icu:443/announce
-
-udp://bt.ktrackers.com:6666/announce
-
-http://tracker2.itzmx.com:6961/announce
 
 udp://tracker.jonaslsa.com:6969/announce
 
@@ -76,7 +76,7 @@ udp://carr.codes:6969/announce
 
 https://tr.fuckbitcoin.xyz:443/announce
 
-http://tracker4.itzmx.com:2710/announce
+udp://tracker.pimpmyworld.to:6969/announce
 
 https://tracker.lilithraws.org:443/announce
 
@@ -88,8 +88,6 @@ http://dn42.smrsh.net:6969/announce
 
 udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 
-udp://thagoat.rocks:6969/announce
-
 udp://aegir.sexy:6969/announce
 
 udp://acxx.de:6969/announce
@@ -100,9 +98,5 @@ udp://bedro.cloud:6969/announce
 
 http://504e163a.host.njalla.net:6969/announce
 
-udp://private.anonseed.com:6969/announce
-
 udp://eccologic.net:6969/announce
-
-udp://open-tracker.demonoid.ch:6969/announce
 
