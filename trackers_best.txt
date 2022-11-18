@@ -40,8 +40,6 @@ https://tr.burnabyhighstar.com:443/announce
 
 https://tr.abiir.top:443/announce
 
-udp://open.dstud.io:6969/announce
-
 udp://zecircle.xyz:6969/announce
 
 http://incine.ru:6969/announce
@@ -55,8 +53,6 @@ udp://fh2.cmp-gaming.com:6969/announce
 udp://moonburrow.club:6969/announce
 
 udp://uploads.gamecoast.net:6969/announce
-
-udp://mail.artixlinux.org:6969/announce
 
 udp://open.demonii.com:1337/announce
 
@@ -96,7 +92,7 @@ udp://dht.bt251.com:6969/announce
 
 udp://bedro.cloud:6969/announce
 
-http://504e163a.host.njalla.net:6969/announce
-
 udp://eccologic.net:6969/announce
+
+http://p2p.0g.cx:6969/announce
 
