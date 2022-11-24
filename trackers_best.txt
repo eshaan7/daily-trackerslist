@@ -1,5 +1,7 @@
 udp://tracker.opentrackr.org:1337/announce
 
+http://tracker1.itzmx.com:8080/announce
+
 udp://tracker.birkenwald.de:6969/announce
 
 http://t.acg.rip:6699/announce
@@ -13,6 +15,8 @@ http://tracker.bt4g.com:2095/announce
 https://tracker.nanoha.org:443/announce
 
 http://tracker.files.fm:6969/announce
+
+udp://tracker-udp.gbitt.info:80/announce
 
 http://tracker.noobsubs.net:80/announce
 
@@ -29,8 +33,6 @@ udp://movies.zsw.ca:6969/announce
 udp://tracker.leech.ie:1337/announce
 
 https://tracker.cyber-hub.net:443/announce
-
-https://tracker.lilithraws.cf:443/announce
 
 http://bt.okmp3.ru:2710/announce
 
@@ -64,6 +66,8 @@ udp://open.demonii.com:1337/announce
 
 https://tracker.imgoingto.icu:443/announce
 
+http://tracker.sakurato.art:23333/announce
+
 udp://tracker.jonaslsa.com:6969/announce
 
 https://tracker.tamersunion.org:443/announce
@@ -80,7 +84,7 @@ udp://carr.codes:6969/announce
 
 udp://tracker.pimpmyworld.to:6969/announce
 
-https://tracker.lilithraws.org:443/announce
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://sx.xxtor.com:6969/announce
 
@@ -94,11 +98,9 @@ udp://dht.bt251.com:6969/announce
 
 udp://bedro.cloud:6969/announce
 
-udp://eccologic.net:6969/announce
-
 http://p2p.0g.cx:6969/announce
 
 http://bz.tracker.bz:80/announce
 
-udp://freedom.1776.ga:6969/announce
+http://v6-tracker.0g.cx:6969/announce
 
