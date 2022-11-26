@@ -32,6 +32,8 @@ udp://tracker.leech.ie:1337/announce
 
 https://tracker.cyber-hub.net:443/announce
 
+udp://tracker1.bt.moack.co.kr:80/announce
+
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 
 udp://open.publictracker.xyz:6969/announce
@@ -62,17 +64,11 @@ udp://open.demonii.com:1337/announce
 
 https://tracker.imgoingto.icu:443/announce
 
-http://tracker.sakurato.art:23333/announce
-
-udp://tracker.jonaslsa.com:6969/announce
-
 https://tracker.tamersunion.org:443/announce
 
 https://tracker.kuroy.me:443/announce
 
 http://parag.rs:6969/announce
-
-udp://v1046920.hosted-by-vdsina.ru:6969/announce
 
 udp://static.54.161.216.95.clients.your-server.de:6969/announce
 
@@ -83,8 +79,6 @@ udp://tracker.pimpmyworld.to:6969/announce
 udp://tracker.skynetcloud.site:6969/announce
 
 udp://sx.xxtor.com:6969/announce
-
-udp://p5796a22a.dip0.t-ipconnect.de:6969/announce
 
 udp://aegir.sexy:6969/announce
 
@@ -99,4 +93,6 @@ http://p2p.0g.cx:6969/announce
 http://bz.tracker.bz:80/announce
 
 http://v6-tracker.0g.cx:6969/announce
+
+udp://trackerb.jonaslsa.com:6969/announce
 
