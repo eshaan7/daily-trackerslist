@@ -232,9 +232,9 @@ udp://ipv6.tracker.monitorit4.me:6969/announce
 
 udp://tracker.yangxiaoguozi.cn:6969/announce
 
-udp://open-tracker.demonoid.ch:6969/announce
-
 udp://v2.iperson.xyz:6969/announce
+
+udp://open-tracker.demonoid.ch:6969/announce
 
 udp://new-line.net:6969/announce
 
